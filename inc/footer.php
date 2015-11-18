@@ -1,4 +1,4 @@
-
+<!-- footer -->
                 </div><!-- .row -->
                 </div><!-- .span12 -->
               </div><!-- .container -->
