@@ -47,10 +47,11 @@
 
                         <div class="span9">
                             <p class="padFirstP"> Address : </p>
-                            <p> Phone   : +353-86-8068764 </p>
-                            <p> E-Mail  : conor.gilmer@gmail.com</p>
-                            <p> Skype   : conor.gilmer</p>
-                            <p> Twitter : http://www.twitter.com/conorgilmer</p>
+                            <p> Phone    : +353-86-8068764 </p>
+                            <p> E-Mail   : conor.gilmer@gmail.com</p>
+                            <p> Skype    : conor.gilmer</p>
+                            <p> Twitter  : <a target="_blank" href="http://www.twitter.com/conorgilmer">http://www.twitter.com/conorgilmer</a></p>
+                            <p> LinkedIn  : <a target="_blank" href="http://www.linkedin.com/in/conorgilmer">http://www.linkedin.com/in/conorgilmer</a></p>
                        </div> <!-- .span8 -->
 
                   </div><!-- .row -->
@@ -80,7 +81,7 @@
                   <div class="row ">
                        <div class="span12">
                             <p class="padFirstP">Development : Programming database driven applications for the Banking, Education, Insurance, Travel and Telecom industries.</p>
-                            <p class="padFirstP">IT Consultancy : Internet webpresence managmenet, eLearning systems and Internet Marketing</p>
+                            <p class="padFirstP">IT Consultancy : Internet webpresence managemnet, eLearning systems and Internet Marketing</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -111,7 +112,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP">Technologies used : Java, COBOL, Perl, PHP, MySql. LaTeX, Linux.</p>
+                            <p class="padFirstP">Technologies used : Java, COBOL, Perl, PHP, MySql, LaTeX, Linux.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -125,7 +126,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> Chess, Skiing, Cycling, Electronics, Radio, Technology, Guitar.</p>
+                            <p class="padFirstP"> Chess, Skiing, Cycling, Electronics, Amateur Radio, Technology, Guitar.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
