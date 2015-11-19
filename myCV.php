@@ -17,9 +17,11 @@
                       <li><a href="twitter.php">Twitter</a></li>
 		      <li><a href="google.php">Google+</a></li>
                       <li><a href="facebook.php">Facebook</a></li>
+                      <li><a href="youtube.php">YouTube</a></li>
                       <li class="active"><a href="myCV.php">My CV</a></li>
                       <li><a href="projects.php">Project</a></li>
                       <li><a href="about.php">About</a></li>
+                      <li><a href="colophon.php">Colophon</a></li>
                     </ul>
                   </div><!--/.nav-collapse -->
                 </div>

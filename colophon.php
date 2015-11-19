@@ -15,41 +15,40 @@
                     <ul class="nav">
                       <li><a href="index.php">Home</a></li>
                       <li><a href="twitter.php">Twitter</a></li>
-                      <li class="active"><a href="google.php">Google+</a></li>
+			<li><a href="google.php">Google+</a></li>
                       <li><a href="facebook.php">Facebook</a></li>
                       <li><a href="youtube.php">YouTube</a></li>
                       <li><a href="myCV.php">My CV</a></li>
                       <li><a href="projects.php">Project</a></li>
                       <li><a href="about.php">About</a></li>
-                      <li><a href="colophon.php">Colophon</a></li>
+                      <li class="active"><a href="colophon.php">Colophon</a></li>
                     </ul>
                   </div><!--/.nav-collapse -->
                 </div>
-		      </div>
-		    </div>
+              </div>
+            </div>
 
-		   <!-- main page content -->
-		  <div class="wrapper">
-		  <!-- above the containers to push down the footer -->
+           <!-- main page content -->
+          <div class="wrapper">
+          <!-- above the containers to push down the footer -->
 
-		      <div class="container">
+              <div class="container">
 
-			<div class="row">
+                <div class="row">
 
-			<div class="span12 helpDoc">
+                <div class="span12 helpDoc">
 
-	<!-- Page stuff -->
+<!-- Page stuff -->
 
-	<h1>Google+ Stuff</h1>
 
-<h3>Google Badge</h3>
-<script src="https://apis.google.com/js/platform.js" async defer></script>
-<g:person href="https://plus.google.com/u/0/+ConorGilmer" data-rel="author"></g:person>
+<h1>Colophon</h1>
 
-<h3>Google Like</h3>
 
-	<div class="g-plusone" data-annotation="inline" data-width="300"></div>
-
+<p> Well these pages need to acknowledge some technologies and people who inspired them. Naturally technologies like PHP, HTML, CSS, Boostrap, API's from google, facebook and twitter. Also the lecture notes of Conor O'Reilly and Daniel Griffin.
+</p>
+<p>
+Also some old friends such as the vim(www.vim.org) editor and gimp(www.gimp.org) were used to edit code and images.
+</p>
 
 <?php include ("inc/footer.php") ?>
 
