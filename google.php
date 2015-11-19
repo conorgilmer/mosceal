@@ -40,6 +40,10 @@
 
 	<h1>Google+ Stuff</h1>
 
+<h3>Google Badge</h3>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<g:person href="https://plus.google.com/u/0/+ConorGilmer" data-rel="author"></g:person>
+
 
 <?php include ("inc/footer.php") ?>
 
