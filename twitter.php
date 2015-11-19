@@ -14,33 +14,36 @@
                   <div class="nav-collapse">
                     <ul class="nav">
                       <li><a href="index.php">Home</a></li>
-                      <li><a href="twitter.php">Twitter</a></li>
+                      <li class="active"><a href="twitter.php">Twitter</a></li>
                       <li><a href="myCV.php">My CV</a></li>
-                      <li class="active"><a href="projects.php">Project</a></li>
+                      <li><a href="projects.php">Project</a></li>
                       <li><a href="about.php">About</a></li>
                     </ul>
                   </div><!--/.nav-collapse -->
                 </div>
-              </div>
-            </div>
+		      </div>
+		    </div>
 
-           <!-- main page content -->
-          <div class="wrapper">
-          <!-- above the containers to push down the footer -->
+		   <!-- main page content -->
+		  <div class="wrapper">
+		  <!-- above the containers to push down the footer -->
 
-              <div class="container">
+		      <div class="container">
 
-                <div class="row">
+			<div class="row">
 
-                <div class="span12 helpDoc">
+			<div class="span12 helpDoc">
 
-<!-- Page stuff -->
+	<!-- Page stuff -->
+
+	<h1>Twitter Stuff</h1>
+              <h3>My Tweets</h3>
+              <a class="twitter-timeline" href="https://twitter.com/conorgilmer" data-widget-id="393732727855259648">Tweets by @conorgilmer</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+          
 
 
-<h1>Projects</h1>
-<pre>
-Twitter  stuff
-</pre>
 <?php include ("inc/footer.php") ?>
 
 

@@ -45,8 +45,10 @@
 
                         <div class="span9">
                             <p class="padFirstP"> Address : </p>
-                            <p> Phone : +353-86-8068764 </p>
-                            <p> E-Mail : conor.gilmer@gmail.com</p>
+                            <p> Phone   : +353-86-8068764 </p>
+                            <p> E-Mail  : conor.gilmer@gmail.com</p>
+                            <p> Skype   : conor.gilmer</p>
+                            <p> Twitter : http://www.twitter.com/conorgilmer</p>
                        </div> <!-- .span8 -->
 
                   </div><!-- .row -->
@@ -61,7 +63,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> all about me ... </p>
+                            <p class="padFirstP"> Programmer, Chess player, awful guitar player, sports and news junkie.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -75,7 +77,8 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> my jobs ... </p>
+                            <p class="padFirstP">Development : Programming database driven applications for the Banking, Education, Insurance, Travel and Telecom industries.</p>
+                            <p class="padFirstP">IT Consultancy : Internet webpresence managmenet, eLearning systems and Internet Marketing</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -89,7 +92,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP">BSc (National University of Ireland Maynooth) </p>
+                            <p class="padFirstP">B.Sc. (National University of Ireland, Maynooth) </p>
                             <p class="padFirstP">Postgraduate Diploma in Computer Modelling and Simulation (Univesity of Dublin) </p>
                             <p class="padFirstP">Postgraduate Diploma in Computers for Engineers (Univesity of Dublin) </p>
                             <p class="padFirstP">Professional Diploma in Digital Media (Dublin Institute of Technology)</p>
@@ -106,7 +109,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> This is what I can do ... </p>
+                            <p class="padFirstP">Technologies used : Java, COBOL, Perl, PHP, MySql. LaTeX, Linux.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -120,7 +123,7 @@
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> I do this too ... </p>
+                            <p class="padFirstP"> Chess, Skiing, Cycling, Electronics, Radio, Technology, Guitar.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
