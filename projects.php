@@ -15,6 +15,8 @@
                     <ul class="nav">
                       <li><a href="index.php">Home</a></li>
                       <li><a href="twitter.php">Twitter</a></li>
+			<li><a href="google.php">Google+</a></li>
+                      <li><a href="facebook.php">Facebook</a></li>
                       <li><a href="myCV.php">My CV</a></li>
                       <li class="active"><a href="projects.php">Project</a></li>
                       <li><a href="about.php">About</a></li>

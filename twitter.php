@@ -15,6 +15,8 @@
                     <ul class="nav">
                       <li><a href="index.php">Home</a></li>
                       <li class="active"><a href="twitter.php">Twitter</a></li>
+                      <li><a href="google.php">Google+</a></li>
+                      <li><a href="facebook.php">Facebook</a></li>
                       <li><a href="myCV.php">My CV</a></li>
                       <li><a href="projects.php">Project</a></li>
                       <li><a href="about.php">About</a></li>
@@ -42,6 +44,10 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
           
+  <h3>#irishcess</h3>
+<p><a class="twitter-timeline" href="https://twitter.com/hashtag/irishchess" data-widget-id="667173465485635585">#irishchess Tweets</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 
 <?php include ("inc/footer.php") ?>
