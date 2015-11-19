@@ -40,9 +40,19 @@
 
 
 <h1>Projects</h1>
-<pre>
-Twitter  stuff
-</pre>
+
+
+<h2>Coding</h2>
+<p>Elections Proprotionality: <a target="_blank" href="http://www.conorgilmer.eu/elections/ireland/">Ireland</a></p>
+<p>Elections Proprotionality: <a target="_blank" href="http://www.conorgilmer.eu/elections/uk/">UK</a></p>
+
+
+
+<h2>RTE Long Wave 252 Coverage</h2>
+<p>Map of RTE LW 252: <a target="_blank" href="http://www.conorgilmer.com/radio">RTE LW 252 Map</a></p>
+
+
+
 <?php include ("inc/footer.php") ?>
 
 

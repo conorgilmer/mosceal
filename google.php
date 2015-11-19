@@ -44,6 +44,10 @@
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <g:person href="https://plus.google.com/u/0/+ConorGilmer" data-rel="author"></g:person>
 
+<h3>Google Like</h3>
+
+	<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+
 
 <?php include ("inc/footer.php") ?>
 
