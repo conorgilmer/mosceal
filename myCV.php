@@ -99,8 +99,8 @@
                   <div class="row ">
                        <div class="span12">
                             <p class="padFirstP">B.Sc. (National University of Ireland, Maynooth) </p>
-                            <p class="padFirstP">Postgraduate Diploma in Computer Modelling and Simulation (Univesity of Dublin) </p>
-                            <p class="padFirstP">Postgraduate Diploma in Computers for Engineers (Univesity of Dublin) </p>
+                            <p class="padFirstP">Postgraduate Diploma in Computer Modelling and Simulation (University of Dublin) </p>
+                            <p class="padFirstP">Postgraduate Diploma in Computers for Engineers (University of Dublin) </p>
                             <p class="padFirstP">Professional Diploma in Digital Media (Dublin Institute of Technology)</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
