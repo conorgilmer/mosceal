@@ -38,22 +38,26 @@
 
 			<div class="row">
 
-			<div class="span12 helpDoc">
 
 	<!-- Page stuff -->
 
 	<h1>Twitter Stuff</h1>
+			<div class="span4">
               <h3>My Tweets</h3>
               <a class="twitter-timeline" href="https://twitter.com/conorgilmer" data-widget-id="393732727855259648">Tweets by @conorgilmer</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-          
+         </div> 
+			<div class="span4">
   <h3>#irishchess</h3>
 <p><a class="twitter-timeline" href="https://twitter.com/hashtag/irishchess" data-widget-id="667173465485635585">#irishchess Tweets</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
+         </div> 
+			<div class="span4">
 
+         </div> 
 <?php include ("inc/footer.php") ?>
 
 
