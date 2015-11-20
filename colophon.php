@@ -45,10 +45,10 @@
 <h1>Colophon</h1>
 
 
-<p> Well these pages need to acknowledge some technologies and people who inspired them. Naturally technologies like PHP, HTML, CSS, Boostrap, API's from google, facebook and twitter. Also the lecture notes of Conor O'Reilly and Daniel Griffin.
+<p> Well these pages need to acknowledge some technologies and people who inspired them. Naturally technologies like PHP, HTML, CSS, Boostrap, API's and widgets from google, facebook, youtube, instragram and twitter. Also the lecture notes of Conor O'Reilly and Daniel Griffin.
 </p>
 <p>
-Also some old friends such as the vim(www.vim.org) editor and gimp(www.gimp.org) were used to edit code and images.
+Also some old friends such as the vim(<a target="_blank" href="www.vim.org">www.vim.org</a>) editor and gimp(<a target="_blank" href="www.gimp.org">www.gimp.org</a>) were used to edit code and images.
 </p>
 
 <?php include ("inc/footer.php") ?>

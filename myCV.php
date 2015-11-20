@@ -84,7 +84,7 @@
                   <div class="row ">
                        <div class="span12">
                             <p class="padFirstP">Development : Programming database driven applications for the Banking, Education, Insurance, Travel and Telecom industries.</p>
-                            <p class="padFirstP">IT Consultancy : Internet webpresence managemnet, eLearning systems and Internet Marketing</p>
+                            <p class="padFirstP">IT Consultancy : Web design, Internet webpresence management, eLearning systems and Internet Marketing</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 

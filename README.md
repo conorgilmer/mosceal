@@ -8,6 +8,7 @@ Should Include
 - Google+
 - Facebook
 - YouTube
+- Instagram
 
 May Also include some of my interests and projects I have worked on
 - Chess
