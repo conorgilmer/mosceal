@@ -24,6 +24,19 @@ May Also include some of my interests and projects I have worked on
   - Google
   - Yahoo
 
+
+##Log
+
+- 01-11-2015 : Moved to my domain
+- 02-07-2014 : Mothballed old dsawe server
+- 08-03-2014 : Added Youtube page
+- 20-01-2014 : Deployed on appwayz dsa server
+- 11-01-2014 : Deployed on dsawe server
+- 11-01-2014 : Added Dans stuff
+- 05-08-2013 : Facebook and Google  page
+- 01-08-2013 : Twitter page
+- 06-07-2013 : Conors Basic Layout
+
 ## Mise
 Author: http://ie.linkedin.com/in/conorgilmer
 
