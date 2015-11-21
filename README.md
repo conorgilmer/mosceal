@@ -1,7 +1,7 @@
 ## Mo Scéal (My Story) - a bit of my social presence and stuff
 
 This site is just a list of various web stuff, links social media etc. A kind of online desktop.
-And also fiddle about with an API or three
+And also fiddle about with an API or seven, widgets buttons 
 
 Should Include
 - Twitter
@@ -24,7 +24,7 @@ May Also include some of my interests and projects I have worked on
   - Facebook
   - Google
   - Yahoo
-
+  - Open ID
 
 ##Log
 
