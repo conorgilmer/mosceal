@@ -32,6 +32,39 @@
 
            <!-- main page content -->
           <div class="wrapper">
+
+<!--  button -->
+<div class="container buttonbar">
+<p align="left">
+
+  <!--
+  <a href="login_facebookv2.php">
+    <img class="can" src="img/fb-connect.png" 
+         alt="facebook-login" width="160" height="26">
+  </a>
+    -->
+  
+  <a href="login_facebook.php" 
+     class="btn btn-success btn-large">Login using Facebook</a>
+
+  <a href="twit_login.php" 
+     class="btn btn-success btn-large">Login using Twitter</a>
+
+  <a href="login_google.php" 
+     class="btn btn-success btn-large">Login using Google</a>
+<!--
+
+  <a href="login_yahoo.php" 
+     class="btn btn-success btn-large">Login using Yahoo</a>
+
+  <a href="login_linkedin.php" 
+     class="btn btn-success btn-large">Login using LinkedIn</a>
+
+-->
+</p>
+</div>
+
+
           <!-- above the containers to push down the footer -->
 
               <div class="container">
@@ -45,6 +78,7 @@
 
 <h1>Mo Scéal</h1>
 <pre>
+Login on to see more particular information.
 </pre>
 <?php include ("inc/footer.php") ?>
 
