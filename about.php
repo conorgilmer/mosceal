@@ -1,3 +1,11 @@
+<?php
+
+/**
+ * Author: Conor Gilmer (conor.gilmer@gmail.com)
+ */
+
+?>
+
 <?php include ("inc/header.php") ?>
 
 <!-- Menu -->
