@@ -30,11 +30,15 @@
               </div>
             </div>
 
+
+          <div class="jumbotron">
+                      <h1>Colophon</h1>
+            </div>
            <!-- main page content -->
           <div class="wrapper">
           <!-- above the containers to push down the footer -->
 
-              <div class="container">
+   <div class="container">
 
                 <div class="row">
 
@@ -43,7 +47,7 @@
 <!-- Page stuff -->
 
 
-<h1>Colophon</h1>
+<!--h1>Colophon</h1-->
 
 
 <p> Well these pages need to acknowledge some technologies and people who inspired them. Naturally technologies like PHP, HTML, CSS, Bootstrap, API's and widgets from google, facebook, youtube, instragram, flickr and twitter. Also the lecture notes of Conor O'Reilly and Daniel Griffin.
@@ -51,7 +55,8 @@
 <p>
 Also some old friends such as the vim(<a target="_blank" href="www.vim.org">www.vim.org</a>) editor and gimp(<a target="_blank" href="www.gimp.org">www.gimp.org</a>) were used to edit code and images.
 </p>
-
+<p>Developed locally on Linux(Ubuntu) with Apache, MySql and PHP, also then tweaked on XAMPP(<a target="_blank" href="http://www.xampp.org">www.xampp.org</a>) and MAMP (<a target="_blank" href="http://www.mamp.info">www.mamp.info<a>).
+</p>
 <?php include ("inc/footer.php") ?>
 
 
