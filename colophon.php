@@ -1,4 +1,7 @@
-<?php include ("inc/header.php") ?>
+<?php include ("inc/header.php");
+ $thisPage = "colophon";
+include ("inc/menu.php");
+?>
 
 <!-- Menu -->
        <!-- stationary nav bar -->
