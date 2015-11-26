@@ -1,8 +1,9 @@
 <?php include ("inc/header.php");
- $thisPage = "projects";
+$thisPage = "projects";
 include ("inc/menu.php");
 ?>
-           <!-- main page content -->
+
+<!-- main page content -->
           <div class="wrapper">
           <!-- above the containers to push down the footer -->
 

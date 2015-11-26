@@ -11,6 +11,10 @@ Should Include
 - Instagram
 - flickr
 
+Also include
+- My CV
+- Projects
+
 May Also include some of my interests and projects I have worked on
 - Chess
 - Radio
@@ -30,7 +34,8 @@ May Also include some of my interests and projects I have worked on
 
 ##Log
 
-- 27-11-2015 : Add metrics for new domain
+- 26-11-2015 : Generic Menus
+- 24-11-2015 : Add metrics for new domain
 - 01-11-2015 : Moved to my domain
 - 26-01-2015 : Flickr and instagram widget
 - 02-07-2014 : Mothballed old dsawe server

@@ -3,7 +3,7 @@
 include ("inc/menu.php");
 ?>
 
-           <!-- main page content -->
+<!-- main page content -->
           <div class="wrapper">
 
 <!--  button -->

@@ -11,7 +11,7 @@ $thisPage = "about";
 include ("inc/menu.php");
 ?>
 
-           <!-- main page content -->
+<!-- main page content -->
           <div class="wrapper">
           <!-- above the containers to push down the footer -->
 
