@@ -1,7 +1,6 @@
 
 
-
-<!-- Menu -->
+<!-- Menu menu.php  -->
        <!-- stationary nav bar -->
             <div class="navbar navbar-fixed-top">
               <div class="navbar-inner">
