@@ -6,8 +6,9 @@
 
 ?>
 
-<?php include ("inc/header.php");
-$thisPage = "about";
+<?php
+$thisPage = "About";
+include ("inc/header.php");
 include ("inc/menu.php");
 ?>
 
