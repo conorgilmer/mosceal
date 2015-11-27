@@ -25,6 +25,7 @@ include ("inc/menu.php");
 	<!-- Page stuff -->
 
 	<h1>Facebook Stuff</h1>
+<p>Facebook widgets for the Chess Club page <a target="_blank" href="https://www.facebook.com/PhibsboroChessClub/">www.facebook.com/PhibsboroChessClub</a> </p>
 <div class="span12">
 <h2>Buttons</h2>
 <div class="fb-like" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
