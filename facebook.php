@@ -10,10 +10,9 @@ include ("inc/menu.php");
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=607946642599752";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=620303288027649";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
 
 		  <div class="wrapper">
 		  <!-- above the containers to push down the footer -->
@@ -26,9 +25,20 @@ include ("inc/menu.php");
 	<!-- Page stuff -->
 
 	<h1>Facebook Stuff</h1>
-<div class="span4">
+<div class="span12">
 <h2>Buttons</h2>
-<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+<div class="fb-follow" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-show-faces="true"></div>
+
+
+<div class="fb-send" data-href="https://www.facebook.com/phibsborochessclub/"></div>
+
+</div>
+<div class="span4">
+<h2>Chess Club Page<h2>
+<div class="fb-page" data-href="https://www.facebook.com/phibsborochessclub" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/phibsborochessclub"><a href="https://www.facebook.com/phibsborochessclub">Facebook</a></blockquote></div></div>
+
 
 </div>
 
