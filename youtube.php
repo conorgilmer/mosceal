@@ -1,5 +1,6 @@
-<?php include ("inc/header.php");
- $thisPage = "youtube";
+<?php 
+$thisPage = "YouTube";
+include ("inc/header.php");
 include ("inc/menu.php");
 
 ?>

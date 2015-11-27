@@ -1,5 +1,5 @@
 <?php 
-$thisPage = "facebook";
+$thisPage = "Facebook";
 include ("inc/header.php"); 
 include ("inc/menu.php");
 ?>
