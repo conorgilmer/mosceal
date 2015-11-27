@@ -1,5 +1,6 @@
-<?php include ("inc/header.php");
-$thisPage = "mycv";
+<?php
+$thisPage = "CV";
+include ("inc/header.php");
 include ("inc/menu.php");
 ?>
 

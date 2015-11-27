@@ -1,5 +1,6 @@
-<?php include ("inc/header.php"); 
- $thisPage = "google";
+<?php 
+$thisPage = "Google";
+include ("inc/header.php"); 
 include ("inc/menu.php");
 ?>
 

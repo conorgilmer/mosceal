@@ -1,5 +1,6 @@
-<?php include ("inc/header.php");
-$thisPage = "instagram";
+<?php 
+$thisPage = "Instagram";
+include ("inc/header.php");
 include ("inc/menu.php");
 ?>
 
