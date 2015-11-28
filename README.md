@@ -4,13 +4,13 @@ This site is just a list of various web stuff, links social media etc. A kind of
 And also fiddle about with an API or seven, widgets buttons 
 
 Should Include
-- Twitter
-- Google+
-- Facebook
-- YouTube
-- Instagram
-- flickr
-- tumblr (buttons)
+- Twitter (buttons, my tweets, hastagged, other tweets)
+- Google+ (Badge, plusone, share, embedde post)
+- Facebook (like, embedded feed, share, message)
+- YouTube (my videos)
+- Instagram (gallery)
+- flickr (gallery)
+- tumblr (buttons, feed and widget)
 
 Also include
 - My CV
@@ -22,7 +22,9 @@ May Also include some of my interests and projects I have worked on
 - Politics / Elections
 
 #To Do/ Ideas
-- Add printerst widget
+- Add printerst widgets
+- Add send tweet, form, php, ajaz, jquery?
+- Add google plus feed
 
 - Add Private section with logins
   - Native
