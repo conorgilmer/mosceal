@@ -20,6 +20,7 @@
                       <li<?php if ($thisPage=="YouTube") echo " class=\"active\"";?>><a href="youtube.php">YouTube</a></li>
                       <li<?php if ($thisPage=="Instagram") echo " class=\"active\"";?>><a href="instagram.php">Instagram</a></li>
                       <li<?php if ($thisPage=="Flickr") echo " class=\"active\"";?>><a href="flickr.php">Flickr</a></li>
+                      <li<?php if ($thisPage=="Tumblr") echo " class=\"active\"";?>><a href="tumblr.php">Tumblr</a></li>
                       <li<?php if ($thisPage=="CV") echo " class=\"active\"";?>><a href="myCV.php">My CV</a></li>
                       <li<?php if ($thisPage=="Projects") echo " class=\"active\"";?>><a href="projects.php">Projects</a></li>
                       <li<?php if ($thisPage=="About") echo " class=\"active\"";?>><a href="about.php">About</a></li>
