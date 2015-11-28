@@ -30,6 +30,16 @@ include ("inc/menu.php");
 
 
 </div>
+
+
+<div class="span4">
+<h3>Embedded Post</h3>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/+EuropeanCommission/posts/B7PRBkxb5rz"></div>
+</div>
 </div>
 <?php include ("inc/footer.php") ?>
 
