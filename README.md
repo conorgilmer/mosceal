@@ -10,6 +10,7 @@ Should Include
 - YouTube
 - Instagram
 - flickr
+- tumblr (buttons)
 
 Also include
 - My CV
@@ -21,7 +22,7 @@ May Also include some of my interests and projects I have worked on
 - Politics / Elections
 
 #To Do/ Ideas
-- Add tumblr, printerst widget
+- Add printerst widget
 
 - Add Private section with logins
   - Native
@@ -38,6 +39,7 @@ May Also include some of my interests and projects I have worked on
 - 24-11-2015 : Add metrics for new domain
 - 01-11-2015 : Moved to my domain
 - 26-01-2015 : Flickr and instagram widget
+- 14-07-2014 : Tumblr widget, Buttons and php/simpleXML return
 - 02-07-2014 : Mothballed old dsawe server
 - 08-03-2014 : Added Youtube page
 - 20-01-2014 : Deployed on appwayz dsa server
