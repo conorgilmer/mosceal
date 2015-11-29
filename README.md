@@ -11,6 +11,7 @@ Should Include
 - Instagram (gallery)
 - flickr (gallery)
 - tumblr (buttons, feed and widget)
+- linkedIn share button
 
 Also include
 - My CV
