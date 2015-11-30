@@ -12,10 +12,9 @@ Should Include
 - flickr (gallery)
 - tumblr (buttons, feed and widget)
 - linkedIn share button
-
-Also include
 - My CV
 - Projects
+- Tweet send, Form, AJAX and JQuery and AJAX
 
 May Also include some of my interests and projects I have worked on
 - Chess
