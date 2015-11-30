@@ -2,7 +2,8 @@
     <html>
         <head>
             <meta charset="utf-8">
-            <title>Mo Sceal</title>
+            <title>Mo Sceal <?php if ($thisPage!="")
+echo " | $thisPage"; ?> </title>
             <meta name="description" content="Web Stuff">
             <meta name="author" content="Conor Gilmer">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
