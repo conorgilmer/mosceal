@@ -24,9 +24,21 @@ include ("inc/menu.php");
  <div class="row text-center">
 
 
+ 
+        <div class="span4">
+<a data-pin-do="buttonFollow" href="https://www.pinterest.com/conorgilmer">Conor&nbsp;Gilmer</a>
+<!-- Please call pinit.js only once per page -->
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+       </div>
+
+
+        <div class="span4">
      <a data-pin-do="embedUser" href="https://www.pinterest.com/conorgilmer/"data-pin-scale-width="80" data-pin-scale-height="200" data-pin-board-width="400">    Visit Conor's profile on Pinterest.</a><!-- Please call pinit.js only once per page --><script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>    
 
 
+        <div class="span4">
+        </div>
+       </div>
       </div><!-- /.row -->
 
 
