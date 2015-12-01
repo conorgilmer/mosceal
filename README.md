@@ -12,6 +12,7 @@ Should Include
 - flickr (gallery)
 - tumblr (buttons, feed and widget)
 - linkedIn share button
+- pinterest widget
 - My CV
 - Projects
 - Tweet send, Form, AJAX and JQuery and AJAX
@@ -22,7 +23,6 @@ May Also include some of my interests and projects I have worked on
 - Politics / Elections
 
 #To Do/ Ideas
-- Add printerst widgets
 - Add send tweet, form, php, ajaz, jquery?
 - Add google plus feed
 
@@ -36,7 +36,7 @@ May Also include some of my interests and projects I have worked on
   - Open ID
 
 ##Log
-
+- 30-11-2015 : Add Pinterst Widget and LinkedIn page 
 - 26-11-2015 : Generic Menus
 - 24-11-2015 : Add metrics for new domain
 - 01-11-2015 : Moved to my domain
