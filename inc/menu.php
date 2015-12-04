@@ -30,6 +30,7 @@
                       <li<?php if ($thisPage=="Tumblr") echo " class=\"active\"";?>><a href="tumblr.php">Tumblr</a></li>
                       <li<?php if ($thisPage=="LinkedIn") echo " class=\"active\"";?>><a href="linkedin.php">LinkedIn</a></li>
                       <li<?php if ($thisPage=="Pinterest") echo " class=\"active\"";?>><a href="pinterest.php">Pinterest</a></li>
+                      <li<?php if ($thisPage=="Foursquare") echo " class=\"active\"";?>><a href="foursquare.php">Foursquare</a></li>
         </li>
 	</ul>
                       <li<?php if ($thisPage=="CV") echo " class=\"active\"";?>><a href="myCV.php">My CV</a></li>
