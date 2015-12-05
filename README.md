@@ -39,10 +39,11 @@ May Also include some of my interests and projects I have worked on
   - instagram oauth
   - Open ID
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Service  | Login | Follow | Share 
+------------- | ------------- | ------------- | -------------
+Twitter  | Yes | Yes | Yes
+Facebook  | Yes | Yes | Yes
+Google+  | Yes | Yes | Yes
 
 ##Log
 - 03-12-2015 : Add Dropdown for Other Social Media Apps
