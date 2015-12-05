@@ -44,6 +44,12 @@ Service  | Login | Follow | Share
 Twitter  | Yes | Yes | Yes
 Facebook  | Yes | Yes | Yes
 Google+  | Yes | Yes | Yes
+LinkedIn+  | Yes | Yes | Yes
+GitHub  | Yes | Yes | No
+Tumblr  | No | Yes | Yes
+Yahoo  | Yes | Yes | Yes
+Instagram  | Yes | Yes | Yes
+Foursquare  | No | Yes | Yes
 
 ##Log
 - 03-12-2015 : Add Dropdown for Other Social Media Apps
