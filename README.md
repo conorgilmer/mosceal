@@ -13,6 +13,7 @@ Should Include
 - tumblr (buttons, feed and widget)
 - linkedIn share button
 - pinterest widget
+- foursquare button
 - My CV
 - Projects
 - Tweet send, Form, AJAX and JQuery and AJAX
@@ -22,7 +23,7 @@ May Also include some of my interests and projects I have worked on
 - Radio
 - Politics / Elections
 
-#To Do/ Ideas
+#To Do / Ideas
 - Add send tweet, form, php, ajaz, jquery?
 - Add google plus feed
 
@@ -33,9 +34,19 @@ May Also include some of my interests and projects I have worked on
   - Facebook
   - Google
   - Yahoo
+  - linkedin
+  - github oauth
+  - instagram oauth
   - Open ID
 
+
+SM | like | follow | share | post
+-------
+twitter|-|-|yes|-|
+google|-|-|yes|-|
+
 ##Log
+- 03-12-2015 : Add Dropdown for Other Social Media Apps
 - 30-11-2015 : Add Pinterst Widget and LinkedIn page 
 - 26-11-2015 : Generic Menus
 - 24-11-2015 : Add metrics for new domain
