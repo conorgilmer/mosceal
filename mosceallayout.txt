@@ -44,3 +44,16 @@
 - native_login.php
 
 - logout.php
+
+- twitter.php
+- facebook.php
+- linkedin.php
+- google.php
+- yahoo.php
+- youtube.php
+- instagram.php
+- flickr.php
+- foursquare.php
+- myCV.php
+- projects.php
+
