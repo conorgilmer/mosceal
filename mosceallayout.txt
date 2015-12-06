@@ -1,0 +1,46 @@
+
+
+
+- index.php
+- about.php
+- public.php
+- private.php
+- colophon.php
+	- css (bootstrap)
+	- js (bootstrap)
+	- images (images)
+	- tokens
+		- twitter_token.php
+		- facebook_token.php
+		- linkedin_token.php
+		- google_token.php
+		- yahoo_token.php
+		- github_token.php
+		- instagram_token.php
+	- lib
+		- twitter_Api.php
+		- facebook_Api.php
+		- linkedin_Api.php
+		- google_Api.php
+		- yahoo_Api.php
+		- github_Api.php
+		- instagram_Api.php
+	- public
+		- header.php
+		- menu.php
+		- footer.php
+ 
+	- private
+		- header.php
+		- menu.php
+		- footer.php
+- twitter_login.php
+- facebook_login.php
+- linkedin_login.php
+- google_login.php
+- yahoo_login.php
+- github_login.php
+- instagram_login.php
+- native_login.php
+
+- logout.php
