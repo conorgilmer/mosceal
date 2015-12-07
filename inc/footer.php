@@ -13,13 +13,14 @@
             <footer>
             <div class="container">
             <div class="row">
-                    <p>&copy; Conor Gilmer 2010-2015</p>
+                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-2015</p>
             </div><!-- .row -->
             </div><!-- .container -->
             </footer>
 
 <!-- Website Stats -->
 <!-- Piwik -->
+<!-- Comment out since server down
 	<script type="text/javascript">
 		var _paq = _paq || [];
 										_paq.push(["trackPageView"]);
@@ -36,6 +37,7 @@
 			s.parentNode.insertBefore(g, s);
 		})();
 	</script>
+-->
 <!-- End Piwik Code -->
 
 <!-- Google metrics -->

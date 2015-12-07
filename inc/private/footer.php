@@ -13,7 +13,7 @@
             <footer>
             <div class="container">
             <div class="row">
-                    <p>&copy; Conor Gilmer 2010-2015</p>
+                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-2015</p>
             </div><!-- .row -->
             </div><!-- .container -->
             </footer>
