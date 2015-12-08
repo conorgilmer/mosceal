@@ -8,7 +8,7 @@ session_start();
 $thisPage = "About";
 include ("inc/header.php");
 if(!isset($_SESSION['google_data'])){
-        include ("inc/public/menu.php");}
+        include ("inc/menu.php");}
 else {
         include ("inc/private/menu.php");}
 ?>
