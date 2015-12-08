@@ -1,7 +1,13 @@
 <?php 
+session_start();
 $thisPage = "Colophon";
 include ("inc/header.php");
-include ("inc/menu.php");
+
+if(!isset($_SESSION['google_data'])){
+
+include ("inc/public/menu.php");}
+else {
+include ("inc/private/menu.php");}
 ?>
 
 <!-- main page -->
