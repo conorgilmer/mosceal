@@ -42,6 +42,11 @@ So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java
 </p>
 
 
+<h2>Walking Stats</h2>
+<p>I set up a bootstrap site to track walking statistics and graph them.  <a target="_blank" href="http://www.conorgilmer.eu/walkingstats/index.php">Walking Stats</a> the distance and speed and calories were tracked by the runtastic app.
+</p>
+
+
 <?php include ("inc/footer.php") ?>
 
 
