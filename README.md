@@ -28,16 +28,19 @@ May Also include some of my interests and projects I have worked on
 - Add google plus feed
 
 - Add Private section with logins
-  - Native
-  - DB
-  - Twitter
-  - Facebook
-  - Google
+  - Native (done)
+  - DB (done)
+  - Twitter (locally separate page)
+  - Facebook (locally separate page)
+  - Google (locally separate page)
   - Yahoo
-  - linkedin
-  - github oauth
+  - linkedin (locally separate page)
+  - github oauth (locally separate page)
   - instagram oauth
-  - Open ID
+  - stackover flow
+  - microsoft/hotmail/outlook
+  - yandex
+  - generic Open ID
 
 Service  | Login | Follow | Share 
 ------------- | ------------- | ------------- | -------------
