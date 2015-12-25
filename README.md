@@ -26,6 +26,8 @@ May Also include some of my interests and projects I have worked on
 #To Do / Ideas
 - Add send tweet, form, php, ajaz, jquery?
 - Add google plus feed
+- Add specific page for contracting visage
+- Add specific page for chess club - sm page
 
 - Add Private section with logins
   - Native (done)
