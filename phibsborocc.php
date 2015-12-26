@@ -30,7 +30,8 @@ include ("inc/menu.php");
 			</div>
 			<div class="row">
 			<div class="span4">
-              <h3>Tweets</h3>
+              <h3>Facebook</h3>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FPhibsboroChessClub&width=350&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435" scrolling="yes" frameborder="0" style="border:none; overflow:hidden; width:350px; height:450px; background: white; float:left; " allowtransparency="true"></iframe>
          </div> 
 			<div class="span4">
   <h3>#irishchess</h3>
