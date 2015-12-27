@@ -3,7 +3,14 @@ $thisPage = "Chess";
 include ("inc/header.php");
 include ("inc/menu.php");
 ?>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=620303288027649";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 		   <!-- main page content -->
 		  <div class="wrapper">
 		  <!-- above the containers to push down the footer -->
@@ -12,7 +19,6 @@ include ("inc/menu.php");
 
 			<div class="row">
 
-
 	<!-- Page stuff -->
 
 	<h1>Phibsboro Chess Club</h1>
@@ -20,12 +26,15 @@ include ("inc/menu.php");
 
 <h3>Buttons</h3>
 			<div class="span3">
+<div class="fb-follow" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-show-faces="true"></div>
+			</div>
+			<div class="span3">
+<div class="fb-send" data-href="https://www.facebook.com/phibsborochessclub/"></div>
 			</div>
 			<div class="span3">
 			</div>
 			<div class="span3">
-			</div>
-			<div class="span3">
+<div class="fb-like" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 			</div>
 			</div>
 			<div class="row">
