@@ -24,6 +24,7 @@ include ("inc/menu.php");
 			<div class="span3">
 <a href="https://twitter.com/webwayz" class="twitter-follow-button" data-show-count="false">Follow @webwayz</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
+<br/>
 
 <div class="fb-follow" data-href="https://www.facebook.com/webwayz" data-layout="standard" data-show-faces="true"></div>
 
@@ -45,6 +46,7 @@ include ("inc/menu.php");
 			<div class="span3">
 <a href="https://twitter.com/share" class="twitter-share-button"{count} data-url="http://www.webwayz.com" data-via="webwayz">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
+<br/>
 <div class="fb-like" data-href="http://www.facebook.com/webwayz" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
 
 			</div>

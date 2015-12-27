@@ -3,6 +3,8 @@ $thisPage = "Chess";
 include ("inc/header.php");
 include ("inc/menu.php");
 ?>
+
+<!-- fb buttons code -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -11,6 +13,8 @@ include ("inc/menu.php");
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=620303288027649";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<!-- end of fb buttons code -->
+
 		   <!-- main page content -->
 		  <div class="wrapper">
 		  <!-- above the containers to push down the footer -->
@@ -27,9 +31,23 @@ include ("inc/menu.php");
 <h3>Buttons</h3>
 			<div class="span3">
 <div class="fb-follow" data-href="https://www.facebook.com/phibsborochessclub/" data-layout="standard" data-show-faces="true"></div>
+<a href="https://twitter.com/phibsborochess" class="twitter-follow-button" data-show-count="false">Follow @phibsborochess</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br/>
+<a href="https://twitter.com/share" class="twitter-share-button"{count} data-url="http://www.phibsborochessclub.com" data-via="phibsborochess">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 			</div>
 			<div class="span3">
 <div class="fb-send" data-href="https://www.facebook.com/phibsborochessclub/"></div>
+
+<br/>
+<a href="https://twitter.com/intent/tweet?screen_name=phibsborochess" class="twitter-mention-button" data-related="phibsborochess">Tweet to @phibsborochess</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<br/>
+<a href="https://twitter.com/intent/tweet?button_hashtag=phibsborochessclub" class="twitter-hashtag-button" data-related="conorgilmer">Tweet #phibsborochessclub</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</div>
 			<div class="span3">
 			</div>
