@@ -9,11 +9,13 @@
             <div class="push"><!--//--></div>
             </div><!-- .wrapper -->
 
-            <!-- footer -->
+<?php
+$date_made = date("Y");
+?>
             <footer>
             <div class="container">
             <div class="row">
-                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-2015</p>
+                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-<?php echo$date_made; ?></p>
             </div><!-- .row -->
             </div><!-- .container -->
             </footer>
