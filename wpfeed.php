@@ -8,7 +8,8 @@ function getFeed($feed_url) {
     echo "<ul>";
      
     foreach($x->channel->item as $entry) {
-        echo "<li><a href='$entry->link' title='$entry->title'>" . $entry->title . "</a></li>";
+        $small_post = substr($entry->description,0,120);
+        echo "<li><a href='$entry->link' title='$entry->title'>" . $entry->title . "</a> " .$small_post . "</li>";
     }
     echo "</ul>";
 }
