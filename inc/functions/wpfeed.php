@@ -1,4 +1,7 @@
 <?php
+//get a wordpress feed 
+//called by 
+//echo getFeed('http://www.yourdomain.com/feed');
  
 function getFeed($feed_url) {
      
@@ -13,10 +16,6 @@ function getFeed($feed_url) {
     }
     echo "</ul>";
 }
-
-
-
-//echo getFeed('http://www.webwayz.com/feed');
 
 ?>
 

@@ -1,10 +1,12 @@
 <?php
+// get a tumblr feed
+// usage
+// getTumblr("http://youraccount.tumblr.com");
 
 function getTumblr($url){
 
 for ($num=0; $num<5; $num++){
         $request_url = $url . "/api/read?start=$num&num=5&type=text";
-        //$request_url = "http://conorgilmer.tumblr.com/api/read?start=$num&num=5&type=text";
         $xml = simplexml_load_file($request_url);
         $title = $xml->posts->post->{'regular-title'};
         $post = $xml->posts->post->{'regular-body'};
@@ -16,4 +18,5 @@ for ($num=0; $num<5; $num++){
         echo "<a target=frame2 href='".$link."'>Read More</a><hr> </p>";
 	} /* end of for */
 } /* end of fn */
+
 ?>
