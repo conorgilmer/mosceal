@@ -28,6 +28,7 @@ May Also include some of my interests and projects I have worked on
 - Add google plus feed
 - Add specific page for contracting visage
 - Add specific page for chess club - sm page
+- Add Foursquare check ins
 
 - Add Private section with logins
   - Native (done)
