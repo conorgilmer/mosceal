@@ -109,6 +109,23 @@ include ("inc/menu.php");
 
                 <br/>
 
+                <div class="row ">
+                       <div class="span12 docpanel8">
+                            <h2 class="whitefont"> My Travels </h2>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                  <div class="row ">
+                       <div class="span12">
+                            <p class="padFirstP"> Greece, Spain, USA, Norway, Denmark, Sweden, Germany, France, Cuba, Italy, Belgium, Poland, Austria, Slovakia, Czech Republic, 
+Finland, Iceland.</p>
+
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:9999999999999999999&chld=BE|DK|EE|FI|FR|DE|GR|IS|IE|IT|SE|ES|SK|PL|NO|AT|CZ|US|CU" width="450" height="300" ><br/>visited 19 states (8.44%)<br/><a href="http://douweosinga.com/projects/visited?region=world">Create your own visited map of The World</a> or <a href="https://play.google.com/store/apps/details?id=com.triposo.droidguide.amsterdam&hl=en">Amsterdam travel guide for Android</a>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                <br/>
+
              </div><!-- .container -->
 
 <!-- Footer -->
