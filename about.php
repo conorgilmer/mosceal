@@ -44,7 +44,7 @@ Should Include
 - linkedIn share button
 
 Also include
-- My CV
+- My CV (Details, Skills, Education, Hobbies, Travels)
 - Projects
 
 May Also include some of my interests and projects I have worked on
@@ -54,7 +54,7 @@ May Also include some of my interests and projects I have worked on
 
 #To Do/ Ideas
 - Add printerst widgets
-- Add send tweet, form, php, ajaz, jquery?
+- Add send tweet, form, php, ajax, jquery?
 - Add google plus feed
 
 ## Mise
