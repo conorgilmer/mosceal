@@ -44,7 +44,7 @@ Should Include
 - linkedIn share button
 
 Also include
-- My CV (Details, Skills, Education, Hobbies, Travels)
+- My CV (Details, Skills, Education, Hobbies, Travels/Map of countries I have visited)
 - Projects
 
 May Also include some of my interests and projects I have worked on
