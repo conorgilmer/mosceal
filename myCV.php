@@ -82,6 +82,25 @@ include ("inc/menu.php");
                 <br/>
 
                 <div class="row ">
+                       <div class="span12 docpanel5">
+                            <h2 class="whitefont"> Certificates </h2>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                  <div class="row ">
+                       <div class="span12">
+                            <p class="padFirstP">Google Analytics Individual Qualification (Google) </p>
+                            <p class="padFirstP">Google Adwords Certified (Google) </p>
+                            <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
+                            <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
+                            <p class="padFirstP">Certificate in Online Proficiency (Google/Digial Garage) </p>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                <br/>
+
+
+                <div class="row ">
                        <div class="span12 docpanel6">
                             <h2 class="whitefont"> Skills Summary </h2>
                        </div> <!-- .span12 -->
