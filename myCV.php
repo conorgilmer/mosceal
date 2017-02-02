@@ -93,7 +93,7 @@ include ("inc/menu.php");
                             <p class="padFirstP">Google Adwords Certified (Google) </p>
                             <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
                             <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
-                            <p class="padFirstP">Certificate in Online Proficiency (Google/Digial Garage) </p>
+                            <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
