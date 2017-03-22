@@ -90,7 +90,7 @@ include ("inc/menu.php");
                   <div class="row ">
                        <div class="span12">
                             <p class="padFirstP">Google Analytics Individual Qualification (Google) </p>
-                            <p class="padFirstP">Google Adwords Certified (Google) </p>
+                            <p class="padFirstP">Google Adwords Certified - Mobile, Display, Search, Video and Shopping (Google) </p>
                             <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
                             <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
                             <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
