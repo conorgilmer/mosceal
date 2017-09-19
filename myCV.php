@@ -137,10 +137,13 @@ include ("inc/menu.php");
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> The countries I have visited are in order of the first time I have visited there, Greece, Spain, USA, Norway, Denmark, Sweden, Germany, France, Cuba, Italy, Belgium, Poland, Austria, Slovakia, Czech Republic, Finland, and the latest Iceland.</p>
+                            <p class="padFirstP"> The countries I have visited are in order of the first time I have visited there, Greece, Spain, USA, Norway, Denmark, Sweden, Germany, France, Cuba, Italy, Belgium, Poland, Austria, Slovakia, Czech Republic, Finland, Estonia, Iceland and the latest two being Lithuania and Latvia.</p>
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:9999999999999999999&chld=BE|DK|EE|FI|FR|DE|GR|IS|IE|IT|SE|ES|SK|PL|NO|AT|CZ|US|CU" width="450" height="300" ><br/>visited 19 states (8.44%)<br/><a href="http://douweosinga.com/projects/visited?region=world">Create your own visited map of The World</a> or <a href="https://play.google.com/store/apps/details?id=com.triposo.droidguide.amsterdam&hl=en">Amsterdam travel guide for Android</a>
-                       </div> <!-- .span12 -->
+<img height="300" src="https://chart.apis.google.com/chart?cht=map:fixed%3D-70,-180,80,180&amp;chs=450x300&amp;chf=bg,s,336699&amp;chco=d0d0d0,cc0000&amp;chd=s:99999999999999999999999&amp;chld=CU%7CUS%7CSE%7CES%7CSK%7CPL%7CNO%7CNL%7CFR%7CDE%7CGR%7CIS%7CIE%7CIT%7CLV%7CLT%7CDK%7CEE%7CBE%7CCZ%7CAT%7CFI%7CCH" width="450" /><br />
+visited 23 states (10.2%)<br />
+<a href="https://douweosinga.com/projects/visited?region=world">Create your own visited map of The World</a>                       
+
+</div> <!-- .span12 -->
                   </div><!-- .row -->
 
                 <br/>
