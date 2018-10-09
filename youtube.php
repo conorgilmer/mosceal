@@ -29,6 +29,15 @@ frameborder="0" allowfullscreen></iframe>
 
       </div><!-- /.row -->
 
+<h1> Follow My YouTube Videos</h1>
+<p>Follow me button .</p>
+ <div class="row text-center">
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCS6IZ_ydBtmigY15y2qdZ8g" data-layout="full" data-count="default"></div>
+
+</div>
 
 <?php include ("inc/footer.php") ?>
 
