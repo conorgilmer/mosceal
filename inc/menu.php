@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                   </a>
-                  <a class="brand" href="index.php">Mo Scéal</a>
+                  <a class="brand" href="index.php">Conor Gilmer</a>
                   <div class="nav-collapse">
                     <ul class="nav">
                       <li<?php if ($thisPage=="Home") echo " class=\"active\"";?> ><a href="index.php">Home</a></li>

@@ -42,11 +42,11 @@ $date_made = date("Y");
 	</script>
 -->
 <!-- End Piwik Code -->
-
+<!-- conorgilmer.com UA-63807540-1' .eu UA-370035550-1-->
 <!-- Google metrics -->
 <script type='text/javascript'>
 	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-63807540-1']);
+	_gaq.push(['_setAccount', 'UA-37003550-1']);
 _gaq.push(['_trackPageview']);
 
 	(function() {
