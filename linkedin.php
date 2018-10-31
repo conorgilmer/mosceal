@@ -27,18 +27,24 @@ include ("inc/menu.php");
 <div class="span4">
 <h2>Like</h2>
 <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-<script type="IN/Share" data-url="http://www.conorgilmer.com/mosceal" data-counter="top"></script>
+<script type="IN/Share" data-url="http://www.conorgilmer.eu/mosceal" data-counter="top"></script>
 </div>
 
 <div class="span4">
 <h2>Share</h2>
-<script type="IN/Share" data-url="http://www.conorgilmer.com/mosceal" data-counter="right"></script>
+<script type="IN/Share" data-url="http://www.conorgilmer.eu/mosceal" data-counter="right"></script>
 </div>
 
 <div class="span4">
-<h2>Login using LinkedIn</h2>
+<!--<h2>Login using LinkedIn</h2>
 <a href="login_linkedin.php"
      class="btn btn-success btn-large">Login using LinkedIn</a>
+-->
+
+<h2>LinkedIn Profile</h2>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js"></script>
+<!--<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>-->
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="conorgilmer"><a class="LI-simple-link" href='https://ie.linkedin.com/in/conorgilmer?trk=profile-badge'>Conor Gilmer</a></div>
 
 </div>
 
