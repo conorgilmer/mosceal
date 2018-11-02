@@ -13,6 +13,11 @@ else {
         include ("inc/private/menu.php");}
 ?>
 
+
+          <div class="jumbotron">
+                      <h1>About these pages</h1>
+            </div>
+ 
 <!-- main page content -->
           <div class="wrapper">
           <!-- above the containers to push down the footer -->
@@ -41,7 +46,8 @@ Should Include
 - Instagram (gallery)
 - flickr (gallery)
 - tumblr (buttons, feed and widget)
-- linkedIn share button
+- linkedIn share buttona
+- ello widget
 
 Also include
 - My CV (Details, Skills, Education, Hobbies, Travels/Map of countries I have visited)
@@ -56,7 +62,9 @@ May Also include some of my interests and projects I have worked on
 - Add printerst widgets
 - Add send tweet, form, php, ajax, jquery?
 - Add google plus feed
-
+- Add hobby pages Radio, Skiing, Surfing and Chess
+- Links to other pages and sites I have about 
+ 
 ## Mise
 Author: http://ie.linkedin.com/in/conorgilmer
 
