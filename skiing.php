@@ -39,8 +39,11 @@ else {
 <h2>Links</h2>
 <p>Pension Enzian Saalbach <a target="_blank" href="http://pensionenzian.com/en/">www.pensionenzian.com</a></p>
 <p>SkiMcNeill <a target="_blank" href="http://www.skimcneill.com/">www.skimcneill.com</a></p>
-<p>Hemsedal Resort <a target="_blank" href="https://www.hemsedal.com/en">www.hemsedall.com</a></p>
+<p>Hemsedal Resort <a target="_blank" href="https://www.hemsedal.com/en">www.hemsedal.com</a></p>
 <p>Siegi Tours <a target="_blank" href="http://www.siegitours.com/">www.siegitours.com</a></p>
+<p>Directski <a target="_blank" href="https://www.directski.com/">www.directski.com</a></p>
+<p>O'Leary Travel <a target="_blank" href="http://www.bookaholiday.ie">www.bookaholiday.ie</a></p>
+<p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 
 
 <?php include ("inc/footer.php") ?>
