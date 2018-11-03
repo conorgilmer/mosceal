@@ -39,8 +39,10 @@ else {
 <p>Irish Chess Union <a target="_blank" href="https://www.icu.ie">www.icu.ie</a></p>
 <p>Leinster Chess Union <a target="_blank" href="http://www.leinsterchess.com">www.leinsterchess.com</a></p>
 <p>Ulster Chess Union <a target="_blank" href="http://www.ulsterchess.org">www.ulsterchess.org</a></p>
-<p>FIDE <a target="_blank" href="https://www.phibsborochessclub.com">www.phibsborochessclub.com</a></p>
+<p>Cork Chess <a target="_blank" href="http://www.corkchess.com">www.corkchess.com</a></p>
+<p>Phibsboro Chess Club <a target="_blank" href="https://www.phibsborochessclub.com">www.phibsborochessclub.com</a></p>
 <p>FIDE <a target="_blank" href="https://www.fide.com">www.fide.com</a></p>
+<p>Chess Online <a target="_blank" href="https://www.chess.com">www.chess.com</a></p>
 
 
 <?php include ("inc/footer.php") ?>
