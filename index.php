@@ -73,6 +73,12 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
 
 
 
+<div style="margin:auto;text-align:center;"><div style="text-align:center;"><a target="_blank" style="font-size:14px;color:#039;font-family:arial;font-weight:bold; text-decoration:none;title="Golf WeatherOnline " href="https://www.weatheronline.co.uk/weather/maps/city?GLOC=&LANG=en&WMO=&LEVEL=100&R=400"></a></div><iframe width="145" height="130" marginheight="0" marginwidth="0" frameborder="0"
+src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HEIGHT=130&CLOUD=1&V=2">
+</iframe>
+</div>
+
+
 <p>
 <a href="http://info.flagcounter.com/niVM"><img src="http://s04.flagcounter.com/count2/niVM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
@@ -82,6 +88,8 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
 <script type="text/javascript" src="http://counter8.fcs.ovh/private/counter.js?c=c036f552e66433913ec83518a4e428ba"></script>
         
 </p>
+
+<!-- Page stuff -->
 <?php include ("inc/footer.php") ?>
 
 
