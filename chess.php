@@ -33,7 +33,7 @@ else {
 <!--h1>Colophon</h1-->
 
 
-<p>I first learnt to play chess when I was 4, I played it in school and joined a club Phibsboro. My paricipation is mainly in the Leinster Leagues for the club, friendly games in the club and the club blitz competitions. Despite being a technologist, and indeed a computer game player in my youth, online chess has yet to grip me. 
+<p>I first learnt to play chess when I was 4, I played it in school and joined a club Phibsboro. My paricipation is mainly in the Leinster Leagues for the club, friendly games in the club and the club blitz competitions. Despite being a technologist, and indeed a computer game player in my youth, online chess has yet to grip me. I think chess is something which should be recognised as a sport, and given more support by government, it should be available to kids in school to learn for its many benefits, it is something people of different physical abilities and ages can compete on an equal playing field.  
 </p>
 <h2>Chess Links</h2>
 <p>Irish Chess Union <a target="_blank" href="https://www.icu.ie">www.icu.ie</a></p>
