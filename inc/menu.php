@@ -44,6 +44,7 @@
                       <li<?php if ($thisPage=="Chess") echo " class=\"active\"";?>><a href="chess.php">Chess</a></li>
                       <li<?php if ($thisPage=="Radio") echo " class=\"active\"";?>><a href="radio.php">Radio</a></li>
                       <li<?php if ($thisPage=="Skiing") echo " class=\"active\"";?>><a href="skiing.php">Skiing</a></li>
+                      <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Skiing</a></li>
 	</ul>
         </li>
  <li class="dropdown">
