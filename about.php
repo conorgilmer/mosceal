@@ -42,20 +42,25 @@ Should Include
 - Twitter (buttons, my tweets, hastagged, other tweets)
 - Google+ (Badge, plusone, share, embedde post)
 - Facebook (like, embedded feed, share, message)
-- YouTube (my videos)
+- YouTube (my videos, follow widget)
 - Instagram (gallery)
 - flickr (gallery)
 - tumblr (buttons, feed and widget)
-- linkedIn share buttona
+- linkedIn (share button, profile widget)
 - ello widget
+- Printest button
+- foursquare buttont
 
 Also include
 - My CV (Details, Skills, Education, Hobbies, Travels/Map of countries I have visited)
 - Projects
+- Other Links
 
 May Also include some of my interests and projects I have worked on
 - Chess
 - Radio
+- Skiing Links
+- Weather Widgets
 - Politics / Elections
 
 #To Do/ Ideas

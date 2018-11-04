@@ -44,7 +44,7 @@ include ("inc/menu.php");
 
 <h1>Mo Scéal</h1>
 <pre>
-Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should find links to my web presence on the web, social media links, hobbies, projects, old college stuff, and some messing around with API. I suppose it was originally a place to bring all my social media accounts together and other pages I had thrown up over the years.
+Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should find links to my web presence on the web, social media links, hobbies, projects, old college stuff, and some messing around with APIs and Widgets. I suppose it was originally a place to bring all my social media accounts together and other pages I had thrown up over the years.
 </pre>
 
 
@@ -77,6 +77,9 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
 src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HEIGHT=130&CLOUD=1&V=2">
 </iframe>
 </div>
+
+
+<iframe src="http://archive.met.ie/widgets/3daysummary.asp" style=" border-width:0 " width="134" height="222" frameborder="0" scrolling="no"></iframe>
 
 
 <p>
