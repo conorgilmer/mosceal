@@ -36,8 +36,14 @@ else {
 <p>I have always been interested in politics and elections. Here are some links to good sites about elections in Ireland.
 </p>
 
-<h2>Links</h2>
+<h2>Election Data and Psephologist Analysis Links</h2>
 <p>ElectionsIreland.org <a target="_blank" href="http://www.electionsireland.org">www.electionsireland.org</a></p>
+<p>Adrian Kavanaghs Blog<a target="_blank" href="https://adriankavanaghelections.org/">www.adriankavanaghelections.org</a></p>
+<p>Irish Elections <a target="_blank" href="http://www.irelandelection.com">www.irelandelection.com</a></p>
+<p>Nicholas Whytes Northern Ireland Elections <a target="_blank" href="http://www.ark.ac.uk/elections/">www.ark.ac.uk/elections</a></p>
+<p>The Mathematics of Irish Elections <a target="_blank" href="http://www.math.nus.edu.sg/aslaksen/voting.html">http://www.math.nus.edu.sg/aslaksen/voting.html</a></p>
+<p>Joshua Leinsdorf (US Election Psephologist)<a target="_blank" href="http://www.leinsdorf.com/index.html">www.leinsdorf.com</a></p>
+
 
 
 <?php include ("inc/footer.php") ?>
