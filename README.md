@@ -1,7 +1,7 @@
 ## Mo Scéal (My Story) - a bit of my social presence and stuff
 
 This site is just a list of various web stuff, links social media etc. A kind of online desktop.
-And also fiddle about with an API or seven, widgets buttons 
+And also fiddle about with an API or seven, widgets buttons. Ultmately it is to bring a central point as to where all my various online pages and sites can be linked to, and various bits I have hosted on different servers will migrate back to. 
 
 Should Include
 - Twitter (buttons, my tweets, hastagged, other tweets)
@@ -16,14 +16,16 @@ Should Include
 - foursquare button
 - My CV
 - Projects
+- Weather Widgets (Weather Online, Met Eireann)
 - Tweet send, Form, AJAX and JQuery and AJAX
+- Humans.txt file and logo linked at bottom
 
 May Also include some of my interests and projects I have worked on
 - Chess
 - Radio
 - Politics / Elections
 
-#To Do / Ideas
+#To Do / Ideasa
 - Add send tweet, form, php, ajaz, jquery?
 - Add google plus feed
 - Add specific page for contracting visage
@@ -58,6 +60,11 @@ Instagram  | Yes | Yes | Yes
 Foursquare  | No | Yes | Yes
 
 ##Log
+- 05-11-2018 : Add Humans.txt logo and update
+- 28-10-2018 : Migrate to Conorgilmer.eu from conorgilmer.com and other stuff from  appwayz.com 
+- 03-01-2017 : Added Skiing Links Page
+- 10-12-2017 : Remove Defunct items from home page
+- 13-04-2016 : Remove RSS News feed applet not working 
 - 03-12-2015 : Add Dropdown for Other Social Media Apps
 - 30-11-2015 : Add Pinterst Widget and LinkedIn page 
 - 26-11-2015 : Generic Menus

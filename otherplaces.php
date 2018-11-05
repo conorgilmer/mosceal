@@ -30,6 +30,7 @@ include ("inc/menu.php");
 <p>GitHub <a target="_blank" href="https://github.com/conorgilmer/">GitHub</a></p>
 <p>Old Projects Pages <a target="_blank" href="https://www.webwayz.com/projects/">Old Projects</a></p>
 <p>Old HTML Site <a target="_blank" href="indexhtml.html">Old HTML Site</a></p>
+<p>My Travels Blog <a target="_blank" href="http://journeysofcg.blogspot.com/">Journeys of CG</a></p>
 
 <h2>More to follow</h2>
 
