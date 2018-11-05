@@ -18,6 +18,9 @@ $date_made = date("Y");
             <div class="row">
                     <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-<?php echo$date_made; ?> |  <a target="_blank" href="http://www.conorgilmer.eu">www.conorgilmer.eu</a> | <a target="_blank" href="https://www.webwayz.com">www.webwayz.com</a> </p>
             </div><!-- .row -->
+		<div class="row">
+<a href="humans.txt"><img src="../images/humanstxt-transparent-color.png" alt="Humans.txt" width="88" height="31"></a>
+		</div>
             </div><!-- .container -->
             </footer>
 

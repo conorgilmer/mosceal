@@ -7,7 +7,7 @@ echo " | $thisPage"; ?> </title>
             <meta name="description" content="Web Stuff">
             <meta name="author" content="Conor Gilmer">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+            <link type="text/plain" rel="author" href="http://www.conorgilmer.eu/humans.txt" />
             <!-- do not touch this one -->
             <link href="css/bootstrap.min.css" rel="stylesheet"/>
             <link href="css/bootstrap-responsive.min.css" rel="stylesheet"/>

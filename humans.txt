@@ -1,0 +1,19 @@
+/* I like the humans.txt www.humanstxt.org initative */
+
+/* TEAM */
+	Webdeveloper: Conor Gilmer
+	Contact: webwayz [at] gmail.com
+	Twitter: @conorgilmer
+	Facebook: https://www.facebook.com/ConorGilmer
+	Skype: conor.gilmer
+	Site: www.webwayz.com
+	From: Dublin, Ireland
+
+/* THANKS */
+
+/* SITE */
+	Last update: 2017/12/29
+	Language: English
+	Doctype: XHTML 1.0 Transitional
+	Software: Vim, FileZilla, Apache, GIMP, Bootstrap
+	Standards: HTML5, CSS
