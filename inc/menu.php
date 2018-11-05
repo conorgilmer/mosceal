@@ -38,13 +38,14 @@
 
 
  <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Hobbies
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Interests
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
                       <li<?php if ($thisPage=="Chess") echo " class=\"active\"";?>><a href="chess.php">Chess</a></li>
                       <li<?php if ($thisPage=="Radio") echo " class=\"active\"";?>><a href="radio.php">Radio</a></li>
                       <li<?php if ($thisPage=="Skiing") echo " class=\"active\"";?>><a href="skiing.php">Skiing</a></li>
                       <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
+                      <li<?php if ($thisPage=="Elections") echo " class=\"active\"";?>><a href="elections.php">Elections</a></li>
 	</ul>
         </li>
  <li class="dropdown">
