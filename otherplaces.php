@@ -24,6 +24,13 @@ include ("inc/menu.php");
 <p>Webwayz is my Web Development, Online presence management and bespoke development visage.</p>
 <p>Webwayz.com <a target="_blank" href="https://www.webwayz.com/">www.webwayz.com</a></p>
 
+
+<h2>Other Sites</h2>
+<p>GitHub Hosted pages <a target="_blank" href="http://conorgilmer.github.io/index.html">http://conorgilmer.github.io/index.html</a></p>
+<p>GitHub <a target="_blank" href="https://github.com/conorgilmer/">GitHub</a></p>
+<p>Old Projects Pages <a target="_blank" href="https://www.webwayz.com/projects/">Old Projects</a></p>
+<p>Old HTML Site <a target="_blank" href="indexhtml.html">Old HTML Site</a></p>
+
 <h2>More to follow</h2>
 
 <?php include ("inc/footer.php") ?>

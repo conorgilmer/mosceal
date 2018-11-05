@@ -16,7 +16,7 @@ $date_made = date("Y");
             <footer>
             <div class="container">
             <div class="row">
-                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-<?php echo$date_made; ?></p>
+                    <p>&copy; <a target="_blank" href="mailto:conor.gilmer@gmail.com">Conor Gilmer</a> 2010-<?php echo$date_made; ?> |  <a target="_blank" href="http://www.conorgilmer.eu">www.conorgilmer.eu</a> | <a target="_blank" href="https://www.webwayz.com">www.webwayz.com</a> </p>
             </div><!-- .row -->
             </div><!-- .container -->
             </footer>
