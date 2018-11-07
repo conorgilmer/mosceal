@@ -22,13 +22,9 @@ include ("inc/menu.php");
 <h1> My SnapChat Widget</h1>
 <p>SnapChat stuff will go here, I don't really use it but may do so in the future.<p>
  <div class="row text-center">
-
-
  
         <div class="span2">
-
        </div>
-
 
         <div class="span8">
 	<a target="_blank" href="https://www.snapchat.com/add/conor.gilmer">https://www.snapchat.com/add/conor.gilmer</a>
