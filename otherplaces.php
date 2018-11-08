@@ -32,6 +32,7 @@ include ("inc/menu.php");
 <p>Old HTML Site <a target="_blank" href="indexhtml.html">Old HTML Site</a></p>
 <p>My Travels Blog <a target="_blank" href="http://journeysofcg.blogspot.com/">Journeys of CG</a></p>
 <p>About Me <a target="_blank" href="https://about.me/conor.gilmer">About Me</a></p>
+<p>Bootstrap 3 version of this sitee <a target="_blank" href="http://www.conorgilmer.eu/socialmediaAPI/">Social Media API Bootstrap3</a></p>
 
 <h2>More to follow</h2>
 
