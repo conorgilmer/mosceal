@@ -38,10 +38,53 @@ else {
 <h2>Links</h2>
 <p>
 <p>Satellite Index <a target="_blank" href="https://www.satindex.de/">www.satindex.de/</a></p>
-<p>Lyngsat List of Stations<a target="_blank" href="https://www.lyngsat.com/">lyngsat.com</a></p>
-<p>King of Sat<a target="_blank" href="https://en.kingofsat.net/">kingofsat.net</a></p>
-<p>Freesat<a target="_blank" href="https://freesat.co.uk/">www.freesat.co.uk</a></p>
+<p>Lyngsat List of Stations <a target="_blank" href="https://www.lyngsat.com/">lyngsat.com</a></p>
+<p>King of Sat <a target="_blank" href="https://en.kingofsat.net/">kingofsat.net</a></p>
+<p>Freesat <a target="_blank" href="https://freesat.co.uk/">www.freesat.co.uk</a></p>
 
+<h2>Satellite / Stations</h2>
+<h3>Astra 28.2/28.5 East</h3>
+<ul>
+<li>PBS America</li>
+<li>Travel Channel</li>
+<li>Al Jazzera </li>
+<li>France 24 </li>
+<li>CNN </li>
+<li>EuroNews </li>
+<li>BBC News </li>
+<li>CNBC </li>
+<li>Russia Today </li>
+<li>Bloomberg </li>
+<li>TRT World </li>
+</ul>
+<h3>Astra 19.2 East</h3>
+<ul>
+<li>DW (English)</li>
+<li>BBC World</li>
+<li>Russia Today </li>
+<li>Eurosport (German) </li>
+<li>N-TV (German) - News Channel </li>
+<li>France 24 </li>
+<li>TRT World </li>
+<li>RAI News 24 (Italian) </li>
+<li>Sky News Int  </li>
+<li>ARTE (German & French)</li>
+</ul>
+<h3>Eurobird 13.0 East</h3>
+<ul>
+<li>DW (English)</li>
+<li>Russia Today</li>
+<li>Russia Today Doc</li>
+<li>RAI News 24 (Italian) </li>
+</ul>
+
+<h3>5.0 West</h3>
+<ul>
+<li>ARTE (French)</li>
+<li>France 2</li>
+<li>France 3</li>
+<li>France 4</li>
+</ul>
 </p>
 <?php include ("inc/footer.php") ?>
 
