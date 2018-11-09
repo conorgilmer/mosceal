@@ -48,7 +48,7 @@
                       <li<?php if ($thisPage=="Surfing") echo " class=\"active\"";?>><a href="surfing.php">Surfing</a></li>
                       <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
                       <li<?php if ($thisPage=="Elections") echo " class=\"active\"";?>><a href="elections.php">Elections</a></li>
-                      <li<?php if ($thisPage=="College") echo " class=\"active\"";?>><a href="college.php">College Projects</a></li>
+                      <li<?php if ($thisPage=="TV") echo " class=\"active\"";?>><a href="sattv.php">Satellite TV</a></li>
 	</ul>
         </li>
  <li class="dropdown">

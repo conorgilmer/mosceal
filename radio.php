@@ -41,6 +41,9 @@ I have always been interested in Radio and electronics, in the days before the i
 <p>Medium Wave Channels <a target="_blank" href="https://mwradio.eu/">www.mwradio.eu</a></p>
 <p>Medium and Long Wave Channels <a target="_blank" href="http://mediumwaveradio.com/">www.mediumwaveradio.com</a></p>
 <p>Short Wave Frequencies <a target="_blank" href="https://www.short-wave.info/">www.short-wave.info</a></p>
+<p>Ham Radio Ireland Information <a target="_blank" href="https://www.hamradio.ie/">www.hamradio.ie</a></p>
+<p>Comreg Radio Amateurs <a target="_blank" href="https://www.comreg.ie/industry/radio-spectrum/licensing/search-licence-type/radio-amateurs-2/">www.comreg.ie</a></p>
+<p>Radio Society of Great Britain <a target="_blank" href="https://rsgb.org/">rsgb.org</a></p>
 
 </p>
 <?php include ("inc/footer.php") ?>
