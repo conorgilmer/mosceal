@@ -54,6 +54,9 @@ else {
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
+<p>Holiday Shuttle <a target="_blank" href="https://www.holiday-shuttle.at/">https://www.holiday-shuttle.at</a></p>
+<p>Salzburg Tours & Taxis <a target="_blank" href="https://www.salzburgtours.at/">www.salzburgtours.at</a></p>
+<p>Salzburg Limousine Service <a target="_blank" href="https://salzburglimousineservice.com/">salzburglimousineservice.com</a></p>
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
@@ -66,7 +69,7 @@ else {
 
 <p>I have travelled to ski holidays in the Alps, from Dublin through airports such as, Bergamo(Milan), Lyon, Turin, Grenoble, Vienna, Salzburg, Memmingham, Brataslava, and Munich. So often there are different routes to get to a resort.</p>
 
-<p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them.</p>
+<p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them. Get Sun block and lip balm.</p>
 
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
 
