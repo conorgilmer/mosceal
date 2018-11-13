@@ -34,11 +34,13 @@ else {
 
 
 <p>
-I have always been interested in Radio and electronics, in the days before the internet I enjoyed listening through an earpiece to far flung radio stations. While studying Physics in Maynooth I took the option to do an Amateur Radio Course, and nigh on 12 years later took the  <a target="_blank" href="https://www.comreg.ie">Comreg</a>/<a target="_blank" href="http://www.irts.ie">Irish Radio Transmitters Society</a> run Examination and got the Licence and Call Sign <b>ei5gab</b>. In recent years many stations have been switched off on the AM frequencies. 
+I have always been interested in Radio and electronics, in the days before the internet I enjoyed listening through an earpiece to far flung stations (trainspotter like).<br> I was interested in news and current affairs, and back then there were many european particularly central and eastern european radio stations, now not so much but a lot of chinese broadcasting on SW.<br>
+ While studying Physics in Maynooth I took the option to do an Amateur Radio Course, and nigh on 12 years later took the  <a target="_blank" href="https://www.comreg.ie">Comreg</a>/<a target="_blank" href="http://www.irts.ie">Irish Radio Transmitters Society</a> run Examination and got the Licence and Call Sign <b>ei5gab</b>.<br> 
+In recent years many stations have been switched off on the AM frequencies. 
 One consequence is some of the frequencies are a little clearer, although interference from other electronic devices is considerable. A few countries like Norway, are looking at closing down FM stations in the short term.
 </p>
-<h2>Links</h2>
 <p>
+<h2>Links</h2>
 <p>Medium Wave Channels <a target="_blank" href="https://mwradio.eu/">www.mwradio.eu</a></p>
 <p>Medium and Long Wave Channels <a target="_blank" href="http://mediumwaveradio.com/">www.mediumwaveradio.com</a></p>
 <p>Short Wave Frequencies <a target="_blank" href="https://www.short-wave.info/">www.short-wave.info</a></p>
