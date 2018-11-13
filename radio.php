@@ -34,7 +34,8 @@ else {
 
 
 <p>
-I have always been interested in Radio and electronics, in the days before the internet I enjoyed listening through an earpiece to far flung radio stations. While studying Physics in Maynooth I took the option to do an Amateur Radio Course, and nigh on 12 years later took the  <a target="_blank" href="https://www.comreg.ie">Comreg</a>/<a target="_blank" href="http://www.irts.ie">Irish Radio Transmitters Society</a> run Examination and got the Licence and Call Sign <b>ei5gab</b>.
+I have always been interested in Radio and electronics, in the days before the internet I enjoyed listening through an earpiece to far flung radio stations. While studying Physics in Maynooth I took the option to do an Amateur Radio Course, and nigh on 12 years later took the  <a target="_blank" href="https://www.comreg.ie">Comreg</a>/<a target="_blank" href="http://www.irts.ie">Irish Radio Transmitters Society</a> run Examination and got the Licence and Call Sign <b>ei5gab</b>. In recent years many stations have been switched off on the AM frequencies. 
+One consequence is some of the frequencies are a little clearer, although interference from other electronic devices is considerable. A few countries like Norway, are looking at closing down FM stations in the short term.
 </p>
 <h2>Links</h2>
 <p>
