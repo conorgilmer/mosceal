@@ -49,6 +49,7 @@ InstaWidget - <a target="_blank" href="https://instawidget.net/generate">www.ins
 Douwe Osingas Map Generator - <a target="_blank" href="https://douweosinga.com/projects/visited?region=world">www.douweosinga.com</a> 
 Humans.txt - <a target="_blank" href="http://humanstxt.org/">humanstxt.org</a> <br> 
 Bootstrap - <a target="_blank" href="http://getbootstrap.com/">getbootstrap.com</a> <br> 
+Static Maps Generator - <a target="_blank" href="https://staticmapmaker.com/">staticmapmaker.com</a> <br> 
 <p>
 
 <?php include ("inc/footer.php") ?>

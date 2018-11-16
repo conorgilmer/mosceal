@@ -49,7 +49,9 @@ Should Include
 - linkedIn (share button, profile widget)
 - ello widget
 - Printest button
-- foursquare buttont
+- foursquare button
+- Static Maps (Bing, Open Street Maps, Yandex..)
+- Dynamic Maps (Bing)
 
 Also include
 - My CV (Details, Skills, Education, Hobbies, Travels/Map of countries I have visited)
@@ -59,7 +61,8 @@ Also include
 May Also include some of my interests and projects I have worked on
 - Chess
 - Radio
-- Skiing Links
+- Satellite TV
+- Skiing and Surfing Links
 - Weather Widgets
 - Politics / Elections
 
@@ -69,7 +72,8 @@ May Also include some of my interests and projects I have worked on
 - Add google plus feed
 - Add hobby pages Radio, Skiing, Surfing and Chess
 - Links to other pages and sites I have about 
- 
+- Dynamic Maps (Google, MapQuest) 
+
 ## Mise
 Author: http://ie.linkedin.com/in/conorgilmer
 
