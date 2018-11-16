@@ -49,6 +49,7 @@
                       <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
                       <li<?php if ($thisPage=="Elections") echo " class=\"active\"";?>><a href="elections.php">Elections</a></li>
                       <li<?php if ($thisPage=="TV") echo " class=\"active\"";?>><a href="sattv.php">Satellite TV</a></li>
+                      <li<?php if ($thisPage=="Maps") echo " class=\"active\"";?>><a href="maps.php">Maps</a></li>
 	</ul>
         </li>
  <li class="dropdown">
