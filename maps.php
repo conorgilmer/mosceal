@@ -43,6 +43,18 @@ include ("inc/menu.php");
                         <div class="span2">
                         </div>     
 		</div>
+			<div class="row">
+<h3>Open Street Maps</h3>
+                        <div class="span2">
+                        </div>
+                        <div class="span8">
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-7.922827005386353%2C53.094880926294834%2C-7.9136860370635995%2C53.09875274066654&amp;layer=mapnik&amp;marker=53.09681687703483%2C-7.918256521224976" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.09682&amp;mlon=-7.91826#map=17/53.09682/-7.91826">View Larger Map</a></small>
+                        </div>
+                        <div class="span2">
+                        </div>     
+		</div>
+
+			<div class="row">
 
 			<div class="row">
 <h3>Static Yandex Maps</h3>
@@ -56,28 +68,16 @@ include ("inc/menu.php");
 		</div>
 
 			<div class="row">
-<h3>Open Street Maps</h3>
+<h3>Other Maps</h3>
 
                         <div class="span2">
                         </div>
                         <div class="span8">
-  <script>
-    // position we will use later
-    var lat = 53.3870814;
-    var lon = -6.3375127;
-    // initialize map
-    map = L.map('mapDiv').setView([lat, lon], 13);
-    // set map tiles source
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-      maxZoom: 18,
-    }).addTo(map);
-    // add marker to the map
-    marker = L.marker([lat, lon]).addTo(map);
-    // add popup to the marker
-    marker.bindPopup("<b>Dunsink Observatory</b><br />Castleknock<br />Dublin").openPopup();
-  </script>
-  <div id="mapDiv" style="width: 800px; height: 500px"></div>
+
+<b>Google Maps</b> used to be free to use its API but since June 2018 they have started charging so here is a link to a page, since i am declining to use it from now on <a target="_blank" href="gmaps.php">Google Maps Dunsink</a>
+<br>
+<b>Open Street Maps</b> stand alone page  <a target="_blank" href="osm.php">Open Street Maps Dunsink</a>
+
                         </div>
                         <div class="span2">
                         </div>     
