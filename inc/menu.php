@@ -58,6 +58,7 @@
           <ul class="dropdown-menu">
                       <li<?php if ($thisPage=="About") echo " class=\"active\"";?>><a href="about.php">About</a></li>
                       <li<?php if ($thisPage=="Colophon") echo " class=\"active\"";?>><a href="colophon.php">Colophon</a></li>
+                      <li<?php if ($thisPage=="Contact") echo " class=\"active\"";?>><a href="contact.php">Contact Me</a></li>
 	</ul>
         </li>
                     </ul>

@@ -1,3 +1,5 @@
+<?php include('inc/tokens/gmaps_tokens.php');?>
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,7 +12,7 @@
     </style>
   </head>
   <body>
-    <h3>My Google Maps Dunsink</h3>
+    <h3>My Google Maps Dunsink Observatory</h3>
     <!--The div element for the map -->
     <div id="map"></div>
     <script>
@@ -31,7 +33,7 @@ function initMap() {
     * The callback parameter executes the initMap() function
     -->
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJhbYJdo1p8wNHF8PCEYzcgr0vOshbrZk&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=<?php echo $gmaps_key;?>&callback=initMap">
     </script>
   </body>
 </html>

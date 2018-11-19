@@ -24,6 +24,8 @@ include ("inc/menu.php");
 <p>I have written a number of programs to analyse the proportionality of electoral systems, I have updated them from time to time, and the latest versions below are bootstrap websites developed in PHP/MySql using Google Charts for the graphs.</p>
 <p>Elections Proprotionality: <a target="_blank" href="http://www.conorgilmer.eu/elections/ireland/">Ireland</a></p>
 <p>Elections Proprotionality: <a target="_blank" href="http://www.conorgilmer.eu/elections/uk/">UK</a></p>
+<p>Ireland Elections Proprotionalityi (Bounce): <a target="_blank" href="http://www.conorgilmer.eu/elections/bounce/irelectionsbounce.php?year=2016">Irish Elections Seat Bounce</a></p>
+<p>UK Elections Proprotionalityi (Bounce): <a target="_blank" href="http://www.conorgilmer.eu/elections/bounce/ukelectionsbounce.php?year=2017">UK Elections Seat Bounce</a></p>
 
 
 
