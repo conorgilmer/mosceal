@@ -66,6 +66,9 @@ else {
 <p> <a target="_blank" href="https://www.luftansa.com/">Luftansa</a> fly from Dublin to Munich.</p>
  </p>
 
+<h2>Rail</h2>
+<p>Some resorts in the alps are served by rail, and can be an efficent way to get from the airports to the resort <a href="http://www.oebb.at/en/" target=_blank>www.oebb.at</a> and at <a href="https://www.bahn.com/en/view/index.shtml" target=_blank>www.bahn.de</a>.</p>
+
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
 
