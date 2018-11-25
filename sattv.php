@@ -41,8 +41,20 @@ else {
 <p>Lyngsat List of Stations <a target="_blank" href="https://www.lyngsat.com/">lyngsat.com</a></p>
 <p>King of Sat <a target="_blank" href="https://en.kingofsat.net/">kingofsat.net</a></p>
 <p>Freesat <a target="_blank" href="https://freesat.co.uk/">www.freesat.co.uk</a></p>
+</div>
+</div>
+</div>
+
+
+                      <div class="container">
+
+                        <div class="row">
+
+
+        <!-- Page stuff -->
 
 <h2>Satellite / Stations</h2>
+                        <div class="span4">
 <h3>Astra 28.2/28.5 East</h3>
 <ul>
 <li>PBS America</li>
@@ -56,7 +68,12 @@ else {
 <li>Russia Today </li>
 <li>Bloomberg </li>
 <li>TRT World </li>
+<li>BBC Four</li>
+<li>Quest</li>
+<li>Yesterday</li>
 </ul>
+                        </div>
+                        <div class="span4">
 <h3>Astra 19.2 East</h3>
 <ul>
 <li>DW (English)</li>
@@ -70,7 +87,9 @@ else {
 <li>Sky News Int  </li>
 <li>ARTE (German & French)</li>
 </ul>
-<h3>Eurobird 13.0 East</h3>
+                        </div>
+                        <div class="span4">
+<h3>Hotbird 13.0 East</h3>
 <ul>
 <li>DW (English)</li>
 <li>Russia Today</li>
@@ -78,6 +97,19 @@ else {
 <li>RAI News 24 (Italian) </li>
 </ul>
 
+                        </div>
+
+
+</div>
+</div>
+
+
+                      <div class="container">
+
+                        <div class="row">
+
+
+                        <div class="span4">
 <h3>5.0 West</h3>
 <ul>
 <li>ARTE (French)</li>
@@ -85,7 +117,21 @@ else {
 <li>France 3</li>
 <li>France 4</li>
 </ul>
-</p>
+                        </div>
+                        <div class="span4">
+<h3>5.0 East</h3>
+                        </div>
+                        <div class="span4">
+<h3>9.0 East</h3>
+<li>EBS </li>
+<li>EBS + </li>
+<li>BBC World </li>
+<li>Bloomberg </li>
+                        </div>
+
+
+
+
 <?php include ("inc/footer.php") ?>
 
 
