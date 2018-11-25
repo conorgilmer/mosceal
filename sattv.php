@@ -73,6 +73,10 @@ else {
 <li>Quest</li>
 <li>Yesterday</li>
 <li>UTV</li>
+<li>CGTN</li>
+<li>FreeSports</li>
+<li>NHK World</li>
+<li>Arirang TV</li>
 </ul>
                         </div>
                         <div class="span4">
@@ -82,6 +86,7 @@ else {
 <li>BBC World</li>
 <li>Russia Today </li>
 <li>Eurosport (German) </li>
+<li>Sport 1 (German) </li>
 <li>N-TV (German) - News Channel </li>
 <li>France 24 </li>
 <li>CNBC Europe</li>
@@ -89,6 +94,7 @@ else {
 <li>TRT World </li>
 <li>RAI News 24 (Italian) </li>
 <li>Sky News Int  </li>
+<li>Sky Sports News (German)  </li>
 <li>ARTE (German & French)</li>
 </ul>
                         </div>
