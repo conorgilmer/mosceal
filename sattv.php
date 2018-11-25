@@ -64,6 +64,7 @@ else {
 <li>CNN </li>
 <li>EuroNews </li>
 <li>BBC News </li>
+<li>BBC Parliamnet </li>
 <li>CNBC </li>
 <li>Russia Today </li>
 <li>Bloomberg </li>
@@ -71,6 +72,7 @@ else {
 <li>BBC Four</li>
 <li>Quest</li>
 <li>Yesterday</li>
+<li>UTV</li>
 </ul>
                         </div>
                         <div class="span4">
@@ -82,6 +84,8 @@ else {
 <li>Eurosport (German) </li>
 <li>N-TV (German) - News Channel </li>
 <li>France 24 </li>
+<li>CNBC Europe</li>
+<li>CNN International</li>
 <li>TRT World </li>
 <li>RAI News 24 (Italian) </li>
 <li>Sky News Int  </li>
@@ -95,6 +99,15 @@ else {
 <li>Russia Today</li>
 <li>Russia Today Doc</li>
 <li>RAI News 24 (Italian) </li>
+<li>CNBC Europe</li>
+<li>CNC World</li>
+<li>CGTN (English)</li>
+<li>BFM TV News (French)</li>
+<li>RAI Sport</li>
+<li>RAI Scuola</li>
+<li>VOA</li>
+<li>NHK World</li>
+<li>Arirang World</li>
 </ul>
 
                         </div>
@@ -120,6 +133,7 @@ else {
                         </div>
                         <div class="span4">
 <h3>5.0 East</h3>
+<li>Russia World (English) </li>
                         </div>
                         <div class="span4">
 <h3>9.0 East</h3>
