@@ -41,6 +41,7 @@ else {
 <p>Lyngsat List of Stations <a target="_blank" href="https://www.lyngsat.com/">lyngsat.com</a></p>
 <p>King of Sat <a target="_blank" href="https://en.kingofsat.net/">kingofsat.net</a></p>
 <p>Freesat <a target="_blank" href="https://freesat.co.uk/">www.freesat.co.uk</a></p>
+<p>SatExPat <a target="_blank" href="http://en.satexpat.com/">en.satexpat.com</a></p>
 </div>
 </div>
 </div>
@@ -64,7 +65,10 @@ else {
 <li>CNN </li>
 <li>EuroNews </li>
 <li>BBC News </li>
-<li>BBC Parliamnet </li>
+<li>BBC Parliament </li>
+<li>BBC 1,2 (Regionals) </li>
+<li>ITV 1 (Regionals) </li>
+<li>ITV 1,2,3,4 (+1) </li>
 <li>CNBC </li>
 <li>Russia Today </li>
 <li>Bloomberg </li>
