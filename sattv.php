@@ -100,6 +100,8 @@ else {
 <li>Sky News Int  </li>
 <li>Sky Sports News (German)  </li>
 <li>ARTE (German & French)</li>
+<li>Das Erste (German)</li>
+<li>ZDF (German)</li>
 </ul>
                         </div>
                         <div class="span4">
@@ -143,14 +145,26 @@ else {
                         </div>
                         <div class="span4">
 <h3>5.0 East</h3>
-<li>Russia World (English) </li>
+<ul>
+<li>Russia Today (English) </li>
+</ul>
+
+<h3>0.8 West</h3>
+<ul>
+<li>Sky News </li>
+<li>Al Jazeeera (English) </li>
+<li>CGTN  (English) </li>
+<li>CGTN Documentary (English) </li>
+</ul>
                         </div>
                         <div class="span4">
 <h3>9.0 East</h3>
+<ul>
 <li>EBS </li>
 <li>EBS + </li>
 <li>BBC World </li>
 <li>Bloomberg </li>
+</ul>
                         </div>
 
 
