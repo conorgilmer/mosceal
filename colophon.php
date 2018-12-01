@@ -50,6 +50,13 @@ Douwe Osingas Map Generator - <a target="_blank" href="https://douweosinga.com/p
 Humans.txt - <a target="_blank" href="http://humanstxt.org/">humanstxt.org</a> <br> 
 Bootstrap - <a target="_blank" href="http://getbootstrap.com/">getbootstrap.com</a> <br> 
 Static Maps Generator - <a target="_blank" href="https://staticmapmaker.com/">staticmapmaker.com</a> <br> 
+</p>
+<h3>Graphs</h3>
+<p>
+Graphs using <a target="_blank" href="https://developers.google.com/chart/">Google Charts</a><br> 
+GPL PHP Graphs - <a target="_blank" href="https://naku.dohcrew.com/libchart/pages/introduction/">LibChart</a> <br>
+
+
 <p>
 
 <?php include ("inc/footer.php") ?>
