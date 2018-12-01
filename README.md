@@ -9,21 +9,23 @@ Should Include
 - Facebook (like, embedded feed, share, message)
 - YouTube (my videos)
 - Instagram (gallery)
-- flickr (gallery)
-- tumblr (buttons, feed and widget)
-- linkedIn share button
-- pinterest widget
-- foursquare button
+- Flickr (gallery)
+- Tumblr (buttons, feed and widget)
+- LinkedIn share button
+- Pinterest widget
+- Foursquare button
 - My CV
 - Projects
 - Weather Widgets (Weather Online, Met Eireann)
 - Tweet send, Form, AJAX and JQuery and AJAX
 - Humans.txt file and logo linked at bottom
+- Contact Form using PHP
 
 May Also include some of my interests and projects I have worked on
 - Chess
 - Radio
 - Politics / Elections
+- Skiing
 
 #To Do / Ideasa
 - Add send tweet, form, php, ajaz, jquery?
@@ -60,6 +62,7 @@ Instagram  | Yes | Yes | Yes
 Foursquare  | No | Yes | Yes
 
 ##Log
+- 25-11-2018 : Migrate Election Proportionality pages to site and link
 - 05-11-2018 : Add Humans.txt logo and update
 - 28-10-2018 : Migrate to Conorgilmer.eu from conorgilmer.com and other stuff from  appwayz.com 
 - 03-01-2017 : Added Skiing Links Page

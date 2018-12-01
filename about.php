@@ -57,6 +57,7 @@ Also include
 - My CV (Details, Skills, Education, Hobbies, Travels/Map of countries I have visited)
 - Projects
 - Other Links
+- PHP Contact Form
 
 May Also include some of my interests and projects I have worked on
 - Chess
@@ -66,7 +67,7 @@ May Also include some of my interests and projects I have worked on
 - Weather Widgets
 - Politics / Elections
 
-#To Do/ Ideas
+To Do/ Ideas
 - Add printerst widgets
 - Add send tweet, form, php, ajax, jquery?
 - Add google plus feed
