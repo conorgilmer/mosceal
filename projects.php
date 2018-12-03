@@ -32,6 +32,7 @@ include ("inc/menu.php");
 
 
 <h2>RTE Long Wave 252 Coverage</h2>
+<i> Needs to be changed to use MySqli and NOT to use Google Maps.</i>
 <p>Map of RTE LW 252: <a target="_blank" href="http://www.conorgilmer.com/radio">RTE LW 252 Map</a>. A PHP/MySql CRUD application using google maps.</p>
 
 <h2>Another Bootstrap Version of this site</h2>
@@ -50,6 +51,13 @@ So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java
 <p>I set up a bootstrap site to track walking statistics and graph them.  <a target="_blank" href="http://www.conorgilmer.eu/walkingstats/index.php">Walking Stats</a> the distance and speed and calories were tracked by the runtastic app.
 </p>
 
+
+<h2>Generating Graphs</h2><i>(To Do)</i>
+<p>Here is a page where I put my thoughts and tips on using Google Charts, PhpMygraph and LibChart in generating graphs.
+<ul>
+<li><a target="_blank" href="graphs.php" >Generating Graphs</a> </li>
+</ul>
+</p>
 
 <?php include ("inc/footer.php") ?>
 
