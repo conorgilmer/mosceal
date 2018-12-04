@@ -46,10 +46,13 @@ Also some old friends such as the vim(<a target="_blank" href="http://www.vim.or
 <p>
 Met Eireann Apps - <a target="_blank" href="https://archive.met.ie">archive.met.ie</a> <br> 
 InstaWidget - <a target="_blank" href="https://instawidget.net/generate">www.instawidget.net</a> <br> 
-Douwe Osingas Map Generator - <a target="_blank" href="https://douweosinga.com/projects/visited?region=world">www.douweosinga.com</a> 
+Douwe Osingas Map Generator - <a target="_blank" href="https://douweosinga.com/projects/visited?region=world">www.douweosinga.com</a> <br>
+Finance (Investing.com) - <a target="_blank" href="https://www.investing.com/webmaster-tools/">Investing.com Webmaster tools</a> <br> 
+Finance (tradingview.com) - <a target="_blank" href="https://www.tradingview.com/widget/">Trading View Widget</a> <br> 
 Humans.txt - <a target="_blank" href="http://humanstxt.org/">humanstxt.org</a> <br> 
 Bootstrap - <a target="_blank" href="http://getbootstrap.com/">getbootstrap.com</a> <br> 
 Static Maps Generator - <a target="_blank" href="https://staticmapmaker.com/">staticmapmaker.com</a> <br> 
+Search Engine Widgets - Google.com and DuckDuckgo.com<br>
 </p>
 <h3>Graphs</h3>
 <p>
