@@ -14,7 +14,18 @@ include ("inc/menu.php");
 	<!-- Page stuff -->
 <h2> Finance Widgets </h2>
    <div class="row">
+                        <div class="span1">
+                        </div>
+                        <div class="span5">
 <h4>TC2000</h4>
+                        </div>
+                        <div class="span5">
+<h4>Currencies Investing.com</h4>
+                        </div>
+                        <div class="span1">
+                        </div>
+     </div>
+   <div class="row">
                         <div class="span1">
                         </div>
                         <div class="span5">
@@ -74,6 +85,7 @@ include ("inc/menu.php");
 <iframe src="https://www.widgets.investing.com/top-cryptocurrencies?theme=lightTheme" width="100%" height="600" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe>
 
 Powered by <a href="https://www.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a>
+		</div>
 
                         <div class="span5">
 		</div>
@@ -82,14 +94,30 @@ Powered by <a href="https://www.investing.com?utm_source=WMT&amp;utm_medium=refe
 		</div>
 
    <div class="row">
-<h4>Currencies - Investing.com</h4>
+                        <div class="span1">
+                        </div> 
+                        <div class="span7">
+<h4>Currencies - xe.com</h4>
+                        </div> 
+                        <div class="span3">
+<h4>Currencies - fx-rate.net</h4>
+                        </div> 
+                        <div class="span1">
+                        </div> 
+   </div>
+   <div class="row">
 
                         <div class="span1">
                         </div>
 
-                        <div class="span10">
-                        </div>
+                        <div class="span7"
+id="xecurrencywidget"></div>
+<script>var xeCurrencyWidget = {"domain":"conorgilmer.eu","language":"en","size":"normal"};</script>
+<script src="https://www.xe.com/syndication/currencyconverterwidget.js"></script>
 
+                        <div class="span3"
+<div align="center" style="margin-top: 30px;"><div align="center" style="margin: 0px; padding: 0px; border: 2px solid rgb(136, 136, 136); width: 135px; background-color: rgb(255, 255, 255);"><div align="center" style="width: 100%; border-bottom: 1px solid rgb(136, 136, 136); margin: 0px; padding: 0px; text-align: center; color: rgb(0, 0, 0); background-color: rgb(160, 192, 48);"><a href="https://fx-rate.net/EUR/" style="text-decoration: none; font-size: 14px; font-weight: bold; text-align: center; color: rgb(0, 0, 0);"><img src="https://fx-rate.net/images/countries/eu.png" style="margin: 0px; padding: 0px; border: none;"> Euro Exchange Rate</a></div><script type="text/javascript" src="https://fx-rate.net/fx-rates2.php?label_name=Euro Exchange Rate&lab=1&width=135&currency=EUR&cp1_Hex=000000&cp2_Hex=FFFFFF&cp3_Hex=a0c030&hbg=0&flag_code=eu&length=continent&label_type=currency&cp=000000,FFFFFF,a0c030&lang=en"></script></div></div>
+                        </div>
                         <div class="span1">
                         </div>
                  </div>

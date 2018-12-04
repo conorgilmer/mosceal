@@ -14,11 +14,11 @@ Should Include
 - LinkedIn share button
 - Pinterest widget
 - Foursquare button
-- Finance Widgets (Yahoo!, Trading View, Investing.com)
+- Finance Widgets (Yahoo!, Trading View, Investing.com, XE.com, FX-Rate.com)
 - My CV
 - Projects
 - Weather Widgets (Weather Online, Met Eireann)
-- Search Widgets (Duck)
+- Search Widgets (Duck & Google)
 - Tweet send, Form, AJAX and JQuery and AJAX
 - Humans.txt file and logo linked at bottom
 - Contact Form using PHP
