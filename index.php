@@ -26,8 +26,8 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
 </pre>
 
 
-                        <h2> Social Media </h2>
 			</div>
+                        <h2> Social Media </h2>
 			<div class="row">
                         <div class="span1"></div>
                         <div class="span3">
@@ -82,13 +82,28 @@ src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HE
                         </div>
 		</div>
 
+<h2> Search Engine Widgets </h2>
    <div class="row">
 
-                        <div class="span2">
+                        <div class="span1">
                         </div>
-                        <div class="span8">
+                        <div class="span5">
 <iframe src="https://duckduckgo.com/search.html?width=350&duck=yes&site=conorgilmer.eu, webwayz.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:483px;height:60px;" frameborder="0"></iframe>                       </div>
-                        <div class="span2">
+                        <div class="span5">
+                <script>
+  (function() {
+    var cx = '016180829677555730201:3gxjgug64mu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>        
+		</div>
+                        <div class="span1">
                         </div>
 		</div>
 
