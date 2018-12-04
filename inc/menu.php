@@ -33,6 +33,15 @@
                       <li<?php if ($thisPage=="SnapChat") echo " class=\"active\"";?>><a href="snapchat.php">SnapChat</a></li>
 	</ul>
         </li>
+ <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Widgets
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+                      <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
+                      <li<?php if ($thisPage=="Search") echo " class=\"active\"";?>><a href="search.php">Search Engine</a></li>
+	</ul>
+        </li>
+
                       <li<?php if ($thisPage=="CV") echo " class=\"active\"";?>><a href="myCV.php">My CV</a></li>
                       <li<?php if ($thisPage=="Projects") echo " class=\"active\"";?>><a href="projects.php">Projects</a></li>
                       <li<?php if ($thisPage=="Other") echo " class=\"active\"";?>><a href="otherplaces.php">Other Places</a></li>
@@ -46,7 +55,6 @@
                       <li<?php if ($thisPage=="Radio") echo " class=\"active\"";?>><a href="radio.php">Radio</a></li>
                       <li<?php if ($thisPage=="Skiing") echo " class=\"active\"";?>><a href="skiing.php">Skiing</a></li>
                       <li<?php if ($thisPage=="Surfing") echo " class=\"active\"";?>><a href="surfing.php">Surfing</a></li>
-                      <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
                       <li<?php if ($thisPage=="Elections") echo " class=\"active\"";?>><a href="elections.php">Elections</a></li>
                       <li<?php if ($thisPage=="TV") echo " class=\"active\"";?>><a href="sattv.php">Satellite TV</a></li>
                       <li<?php if ($thisPage=="Maps") echo " class=\"active\"";?>><a href="maps.php">Maps</a></li>
