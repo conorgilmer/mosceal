@@ -37,6 +37,7 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Widgets
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
+                      <li<?php if ($thisPage=="Finance") echo " class=\"active\"";?>><a href="finance.php">Finance</a></li>
                       <li<?php if ($thisPage=="Weather") echo " class=\"active\"";?>><a href="weather.php">Weather</a></li>
                       <li<?php if ($thisPage=="Search") echo " class=\"active\"";?>><a href="search.php">Search Engine</a></li>
 	</ul>
