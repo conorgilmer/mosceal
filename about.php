@@ -65,6 +65,7 @@ May Also include some of my interests and projects I have worked on
 - Satellite TV
 - Skiing and Surfing Links
 - Weather Widgets
+- Search Widgets
 - Politics / Elections
 
 To Do/ Ideas

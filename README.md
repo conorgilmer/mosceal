@@ -17,6 +17,7 @@ Should Include
 - My CV
 - Projects
 - Weather Widgets (Weather Online, Met Eireann)
+- Search Widgets (Duck)
 - Tweet send, Form, AJAX and JQuery and AJAX
 - Humans.txt file and logo linked at bottom
 - Contact Form using PHP
