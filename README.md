@@ -14,6 +14,7 @@ Should Include
 - LinkedIn share button
 - Pinterest widget
 - Foursquare button
+- Finance Widgets (Yahoo!, Trading View, Investing.com)
 - My CV
 - Projects
 - Weather Widgets (Weather Online, Met Eireann)
