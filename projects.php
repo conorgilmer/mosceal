@@ -59,6 +59,10 @@ So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java
 </ul>
 </p>
 
+<h2>Graphs from Online Data</h2>
+<p> Display and generate data from online data repositories, cso and quandl.
+</p>
+
 <?php include ("inc/footer.php") ?>
 
 

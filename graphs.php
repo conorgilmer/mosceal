@@ -18,7 +18,7 @@ include ("inc/menu.php");
 
 
 <h1>Graphs</h1>
-<p>Over the years I have used a number of packages to generate graphs, simple enough graphs such as line, bar, pie etc. I have used some open source ones <a target="_blank" href="http://phpmygraph.abisvmm.nl/">PhpMyGraph</a>(offline at the moment) and <a target="_blank" href="https://naku.dohcrew.com/libchart/pages/introduction/">LibChart</a> (Reading from a MySql and using PHP to generated the graphs), before using <a target="_blank" href="https://developers.google.com/chart/">Google Charts</a> in recent years, using JSON, PHP and MySql. 
+<p>Over the years I have used a number of packages to generate graphs, simple enough graphs such as line, bar, pie etc. I have used some open source ones <a target="_blank" href="http://phpmygraph.abisvmm.nl/">PhpMyGraph</a>(offline at the moment) and <a target="_blank" href="https://naku.dohcrew.com/libchart/pages/introduction/">LibChart</a> (Reading from a MySql and using PHP to generated the graphs), before using <a target="_blank" href="https://developers.google.com/chart/">Google Charts</a> in recent years, using JSON, PHP and MySql. Also Chart.js (<a target="_blank" href="https://www.chartjs.org/">www.chartjs.org</a>).
 I hope to put up some of my observations, and how-tos regarding my adventures with them here.
 </p>
 <h2>LibChart</h2>
@@ -34,7 +34,8 @@ FreeType Version: 2.0 or higher.</p>
 <li>Vertical Bar Chart</li>
 <li>Horiontal Bar Chart</li>
 <li>Multiple Bar Chart</li>
-</ul>
+</ul
+
 
 <h2>PhpMyGraph</h2>
 <p>I always like these graphs for simplicity, negatives are there is no Pie Chart, and the randomise colour for Bar Charts contradict what you would expect in some charts, probably needs some customising. (if the library files are not available on the site, I will put them on my github.)</p>
@@ -51,7 +52,9 @@ FreeType Version: 2.0 or higher.</p>
 <h2>Google Charts</h2>
 <p>A tremendous resource and options in graphs to produce. Plenty of documentation on line. One thing I like is the dynamic charts you can create and read information from a google spreadsheet. I suppose I am not a great fan of JavaScript for which it is over dependent.</p>
 
-
+<h2>Chart.jsi</h2>
+<p>Another excellent graph generator for Data visualisation. Fairly straightfoward to use the Content Delivery Network version of the library(chart.js) and format the javascript to generate a graph.
+</p>
 <?php include ("inc/footer.php") ?>
 
 
