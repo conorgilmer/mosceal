@@ -45,6 +45,20 @@ include ("inc/menu.php");
 
                 <br/>
 
+                  <div class="row ">
+                       <div class="span12">
+			 <h2>Providers </h2>
+
+                            <p class="padFirstP">Google Digital Garage</p>
+                            <p class="padFirstP">MicroSoft</p>
+                            <p class="padFirstP"><a target="_blank" href="https://app.hubspot.com/learning-center/">HubSpot Academy</a></p>
+                            <p class="padFirstP">DataCamp</p>
+                            <p class="padFirstP">Open Classrooms</p>
+                            <p class="padFirstP">Open University / Future Learn</p>
+                            <p class="padFirstP">LinkedIn Learning</p>
+                            <p class="padFirstP"><a target="_blank" href="http://www.gcflearnfree.org">Goodwill Community Foundation</a></p>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
              </div><!-- .container -->
 
 <!-- Footer -->

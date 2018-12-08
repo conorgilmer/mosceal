@@ -61,6 +61,11 @@ GPL PHP Graphs - <a target="_blank" href="https://naku.dohcrew.com/libchart/page
 
 
 <p>
+<h3>Data Sources</h3>
+<a target="_blank" href="https://www.quandl.com/">Quandl</a><br> 
+<a target="_blank" href="https://www.cso.ie/en/databases/">CSO</a><br> 
+<p>
+</p>
 
 <?php include ("inc/footer.php") ?>
 
