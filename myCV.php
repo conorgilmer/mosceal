@@ -95,8 +95,10 @@ include ("inc/menu.php");
                             <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
                             <p class="padFirstP">Content Marketing Certification (HubSpot) </p>
                             <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
+                            <p class="padFirstP">Fundamentals in Digital Marketing Certification (Google/Digital Garage/IAB/Open University) </p>
                             <p class="padFirstP">Mobile Sites Certification (Google) </p>
                             <p class="padFirstP">Inbound Certification (HubSpot) </p>
+                            <p class="padFirstP">Social Media Certification (HubSpot) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
