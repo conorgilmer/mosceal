@@ -37,13 +37,20 @@ include ("inc/menu.php");
                             <p class="padFirstP">Fundamentals in Digital Marketing Certification (Google/Digital Garage/IAB/Open University) </p>
 			 <h2>LinkedIn Learning</h2>
                             <p class="padFirstP">WordPress 5.0 Essentials (LinkedIn Learning) </p>
+                            <p class="padFirstP">WordPress eCommerce (LinkedIn Learning) </p>
+                            <p class="padFirstP">Java for Data Scientists Essentials (LinkedIn Learning) </p>
+                            <p class="padFirstP">Java Data Structures (LinkedIn Learning) </p>
 			 <h2>Twitter</h2>
                             <p class="padFirstP">Twitter Flight School - Executive Leadership</p>
                             <p class="padFirstP">Twitter Flight School - Marketing Leadership</p>
 			 <h2>Oracle</h2>
-                            <p class="padFirstP">Introduction to Python for Data Science</p>
+                            <p class="padFirstP">Java Coding and Concepts</p>
 			 <h2>Data Camp</h2>
+                            <p class="padFirstP">Introduction to Python for Data Science</p>
                             <p class="padFirstP">Introduction to R</p>
+			 <h2>SoloLearn</h2>
+                            <p class="padFirstP">Java Tutorial Course</p>
+                            <p class="padFirstP">PHP Tutorial Course</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -54,12 +61,13 @@ include ("inc/menu.php");
 			 <h2>Providers </h2>
 
                             <p class="padFirstP"><a target="_blank" href="https://learndigital.withgoogle.com/digitalgarage-ie">Google Digital Garage</a></p>
-                            <p class="padFirstP">MicroSoft</p>
+                            <p class="padFirstP"><a target="_blank" href="https://advertise.bingads.microsoft.com/en-in/resources/training/courses">MicroSoft</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://app.hubspot.com/learning-center/">HubSpot Academy</a></p>
-                            <p class="padFirstP">DataCamp</p>
-                            <p class="padFirstP">Open Classrooms</p>
-                            <p class="padFirstP">Open University / Future Learn</p>
-                            <p class="padFirstP">LinkedIn Learning</p>
+                            <p class="padFirstP"><a target="_blank" href="https://www.datacamp.com">DataCamp</a></p>
+                            <p class="padFirstP"><a target="_blank" href="https://www.sololearn.com">SoloLearn</a></p>
+                            <p class="padFirstP"><a target="_blank" href="https://openclassrooms.com">OpenClassrooms</a></p>
+                            <p class="padFirstP"><a target="_blank" href="https://www.openuniversity.edu/">Open University</a> / <a target="_blank" href="https://www.futurelearn.com/">Future Learn</a></p>
+                            <p class="padFirstP"><a target="_blank" href="https://www.linkedin.com/learning/">LinkedIn Learning</a></p>
                             <p class="padFirstP"><a target="_blank" href="http://www.gcflearnfree.org">Goodwill Community Foundation</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://www.iabeurope.eu/">IAB Europe</a></p>
                        </div> <!-- .span12 -->
