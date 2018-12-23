@@ -55,7 +55,7 @@ So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java
 <h2>Generating Graphs</h2><i>(To Do)</i>
 <p>Here is a page where I put my thoughts and tips on using Google Charts, PhpMygraph and LibChart in generating graphs.
 <ul>
-<li><a target="_blank" href="graphs.php" >Generating Graphs</a> </li>
+<li><a href="graphs.php">Generating Graphs</a> </li>
 </ul>
 </p>
 
