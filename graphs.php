@@ -52,7 +52,7 @@ FreeType Version: 2.0 or higher.</p>
 <h2>Google Charts</h2>
 <p>A tremendous resource and options in graphs to produce. Plenty of documentation on line. One thing I like is the dynamic charts you can create and read information from a google spreadsheet. I suppose I am not a great fan of JavaScript for which it is over dependent.</p>
 
-<h2>Chart.jsi</h2>
+<h2>Chart.js</h2>
 <p>Another excellent graph generator for Data visualisation. Fairly straightfoward to use the Content Delivery Network version of the library(chart.js) and format the javascript to generate a graph.
 </p>
 <?php include ("inc/footer.php") ?>
