@@ -70,7 +70,8 @@ else {
 <h3>Airlines from Belfast</h3>
 <p>Airlines from Belfast to airports to ski in Austria or Germany.
 
-<p> <a target="_blank" href="https://www.jet2.com/">Jet2.com</a> fly from Belfast International to Salzburg.</p>
+<p> <a target="_blank" href="https://www.jet2.com/">Jet2.com</a> fly from Belfast International to Salzburg (Saturday).</p>
+<p> <a target="_blank" href="https://www.easyjet.com/">EasyJet</a> fly from Belfast International to Salzburg (Sundays some times Thursdays).</p>
 
 
 <h2>Rail</h2>
