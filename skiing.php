@@ -74,6 +74,11 @@ else {
 <p> <a target="_blank" href="https://www.easyjet.com/">EasyJet</a> fly from Belfast International to Salzburg (Sundays some times Thursdays).</p>
 
 
+<h3>Airlines from Cork</h3>
+<p>Airlines from Cork to airports to ski in Austria or Germany.
+<p> <a target="_blank" href="https://www.aerlingus.com/">Aer Lingus</a> fly from Cork to Munich.</p>
+<p> <a target="_blank" href="https://www.tuiholidays.ie/">TUI Holidays</a> for  <a target="_blank" href="https://www.topflight.ie/">TopFlight</a> fly from Cork to Salzburg, normally booked out for packages during the winter ski months.</p>
+
 <h2>Rail</h2>
 <p>Some resorts in the alps are served by rail, and can be an efficent way to get from the airports to the resort <a href="http://www.oebb.at/en/" target=_blank>www.oebb.at</a> and at <a href="https://www.bahn.com/en/view/index.shtml" target=_blank>www.bahn.de</a>.</p>
 
