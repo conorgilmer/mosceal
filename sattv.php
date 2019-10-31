@@ -59,28 +59,30 @@ else {
 <h3>Astra 28.2/28.5 East</h3>
 <ul>
 <li>PBS America</li>
-<li>Travel Channel</li>
+<li>Smithsonian</li>
 <li>Al Jazzera </li>
 <li>France 24 </li>
 <li>CNN </li>
 <li>EuroNews </li>
 <li>BBC News </li>
 <li>BBC Parliament </li>
-<li>BBC 1,2 (Regionals) </li>
+<li>BBC 1,2 (Regionals)</li>
+<li>BBC Four</li>
+<li>UTV</li>
 <li>ITV 1 (Regionals) </li>
 <li>ITV 1,2,3,4 (+1) </li>
 <li>CNBC </li>
 <li>Russia Today </li>
 <li>Bloomberg </li>
 <li>TRT World </li>
-<li>BBC Four</li>
-<li>Quest</li>
 <li>Yesterday</li>
-<li>UTV</li>
 <li>CGTN</li>
 <li>FreeSports</li>
 <li>NHK World</li>
 <li>Arirang TV</li>
+<li>Travel Channel</li>
+<li>DMAX</li>
+<li>Quest</li>
 </ul>
                         </div>
                         <div class="span4">

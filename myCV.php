@@ -141,11 +141,13 @@ include ("inc/menu.php");
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP"> The countries I have visited are in order of the first time I have visited there, Greece, Spain, USA, Norway, Denmark, Sweden, Germany, France, Cuba, Italy, Belgium, Poland, Austria, Slovakia, Czech Republic, Finland, Estonia, Iceland, Lithuania, Latvia and Portugal.</p>
+                            <p class="padFirstP"> The countries I have visited are in order of the first time I have visited there, Greece, Spain, USA, Norway, Denmark, Sweden, Germany, France, Cuba, Italy, Belgium, Poland, Austria, Slovakia, Czech Republic, Finland, Estonia, Iceland and recently Lithuania, Latvia and Portugal.</p>
 
 <br />
+
 <img src="https://chart.apis.google.com/chart?cht=map:fixed%3D-70,-180,80,180&amp;chs=450x300&amp;chf=bg,s,336699&amp;chco=d0d0d0,cc0000&amp;chd=s:999999999999999999999999&amp;chld=US%7CSE%7CES%7CSK%7CPT%7CPL%7CNO%7CNL%7CFR%7CDE%7CGR%7CIS%7CIE%7CIT%7CLV%7CLT%7CFI%7CEE%7CDK%7CCZ%7CBE%7CAT%7CCH%7CCU" width="450" height="300"><br/>visited 24 states (10.6%)<br/>
 
+<a href="https://douweosinga.com/projects/visited?region=world">Create your own visited map of The World</a>
 
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
