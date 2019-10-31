@@ -55,7 +55,8 @@ else {
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
 
-<h2>Airlines from Dublin</h2>
+<h2>Airlines from Ireland</h2>
+<h3>Airlines from Dublin</h3>
 <p>Airlines from dublin to airports to ski in Austria or Germany.
 
 <p> <a target="_blank" href="https://www.aerlingus.com/">Aer Lingus</a> fly from Dublin to Munich, Salzburg and Vienna.</p>
@@ -65,6 +66,12 @@ else {
 
 <p> <a target="_blank" href="https://www.luftansa.com/">Luftansa</a> fly from Dublin to Munich.</p>
  </p>
+
+<h3>Airlines from Belfast</h3>
+<p>Airlines from Belfast to airports to ski in Austria or Germany.
+
+<p> <a target="_blank" href="https://www.jet2.com/">Jet2.com</a> fly from Belfast International to Salzburg.</p>
+
 
 <h2>Rail</h2>
 <p>Some resorts in the alps are served by rail, and can be an efficent way to get from the airports to the resort <a href="http://www.oebb.at/en/" target=_blank>www.oebb.at</a> and at <a href="https://www.bahn.com/en/view/index.shtml" target=_blank>www.bahn.de</a>.</p>
