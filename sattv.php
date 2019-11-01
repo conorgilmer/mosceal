@@ -124,6 +124,13 @@ else {
 <li>Arirang World</li>
 </ul>
 
+<h3>Turksat 42 East</h3>
+<ul>
+<li>Al Jazeera (French)</li>
+<li>TRT Sport (Turkish)</li>
+<li>Russia 24 (Russia)</li>
+</ul>
+
                         </div>
 
 
