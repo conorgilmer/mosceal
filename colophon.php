@@ -52,7 +52,7 @@ Finance (tradingview.com) - <a target="_blank" href="https://www.tradingview.com
 Humans.txt - <a target="_blank" href="http://humanstxt.org/">humanstxt.org</a> <br> 
 Bootstrap - <a target="_blank" href="http://getbootstrap.com/">getbootstrap.com</a> <br> 
 Static Maps Generator - <a target="_blank" href="https://staticmapmaker.com/">staticmapmaker.com</a> <br> 
-Search Engine Widgets - Google.com and DuckDuckgo.com<br>
+Search Engine Widgets - Google.com and <a target="_blank" href="https://duckduckgo.com/">DuckDuckgo.com</a><br>
 </p>
 <h3>Graphs</h3>
 <p>
