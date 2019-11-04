@@ -28,6 +28,8 @@ May Also include some of my interests and projects I have worked on
 - Radio
 - Politics / Elections
 - Skiing
+- Surfing
+- Satellite TV FTA
 
 #To Do / Ideas
 - Add send tweet, form, php, ajaz, jquery?
@@ -36,6 +38,7 @@ May Also include some of my interests and projects I have worked on
 - Add specific page for chess club - sm page
 - Add Foursquare check ins
 - Add Bing Search (need MS account)
+- Add News sites and personal sites of interest
 
 - Add Private section with logins
   - Native (done)
