@@ -68,6 +68,8 @@ Instagram  | Yes | Yes | Yes
 Foursquare  | No | Yes | Yes
 
 ##Log
+- 06-02-2020 : Updated myCV (Updated HubSpot and Google courses) 
+- 09-05-2019 : Updated CV and Updated Travel Maps 
 - 04-12-2018 : Add Widgets Menu item, move Widgets pages from Interests to here
 - 01-12-2018 : Added Separate Search Widget Page (DuckDuckGo and Google)
 - 01-12-2018 : Migrate Finance Widgets Page. Remove defunct widgets.

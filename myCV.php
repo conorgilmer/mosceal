@@ -92,13 +92,15 @@ include ("inc/menu.php");
                             <p class="padFirstP">Google Analytics Individual Qualification (Google) </p>
                             <p class="padFirstP">Google Adwords Certified - Mobile, Display, Search, Video and Shopping (Google) </p>
                             <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
-                            <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
-                            <p class="padFirstP">Content Marketing Certification (HubSpot) </p>
                             <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
                             <p class="padFirstP">Fundamentals in Digital Marketing Certification (Google/Digital Garage/IAB/Open University) </p>
                             <p class="padFirstP">Mobile Sites Certification (Google) </p>
                             <p class="padFirstP">Inbound Certification (HubSpot) </p>
+                            <p class="padFirstP">Inbound Marketing Certification (HubSpot) </p>
                             <p class="padFirstP">Social Media Certification (HubSpot) </p>
+                            <p class="padFirstP">Inbound Certification 2017 (HubSpot) </p>
+                            <p class="padFirstP">Email Marketing Certification (HubSpot) </p>
+                            <p class="padFirstP">Content Marketing Certification (HubSpot) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
