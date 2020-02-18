@@ -39,6 +39,8 @@ May Also include some of my interests and projects I have worked on
 - Add Foursquare check ins
 - Add Bing Search (need MS account)
 - Add News sites and personal sites of interest
+- Add graphs from Google Data Studio (now I did a course in it)
+
 
 - Add Private section with logins
   - Native (done)
