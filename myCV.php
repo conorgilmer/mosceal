@@ -91,6 +91,7 @@ include ("inc/menu.php");
                        <div class="span12">
                             <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
                             <p class="padFirstP">Fundamentals in Digital Marketing Certification (Google/Digital Garage/IAB/Open University) </p>
+                            <p class="padFirstP">Microsoft Advertising Certified Professional (Microsoft) </p>
                             <p class="padFirstP">Mobile Sites Certification (Google) </p>
                             <p class="padFirstP">Inbound Certification (HubSpot) </p>
                             <p class="padFirstP">Inbound Marketing Certification (HubSpot) </p>
