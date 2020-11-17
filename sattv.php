@@ -61,7 +61,7 @@ else {
 <li>PBS America</li>
 <li>Smithsonian</li>
 <li>Al Jazzera </li>
-<li>France 24 </li>
+<li>France 24 (HD only) </li>
 <li>CNN </li>
 <li>EuroNews </li>
 <li>BBC News </li>
@@ -73,7 +73,7 @@ else {
 <li>ITV 1,2,3,4 (+1) </li>
 <li>CNBC </li>
 <li>Russia Today </li>
-<li>Bloomberg </li>
+<li>Bloomberg (HD only) </li>
 <li>TRT World </li>
 <li>Yesterday</li>
 <li>CGTN</li>
@@ -104,6 +104,9 @@ else {
 <li>ARTE (German & French)</li>
 <li>Das Erste (German)</li>
 <li>ZDF (German)</li>
+<li>Bloomberg Europe (English)</li>
+<li>CGTN (English)</li>
+<li>CGTN Documentary (English)</li>
 </ul>
                         </div>
                         <div class="span4">
