@@ -103,6 +103,7 @@ include ("inc/menu.php");
                             <p class="padFirstP">Google Analytics Individual Qualification (Google) </p>
                             <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
                             <p class="padFirstP">Inbound Certification 2017 (HubSpot) </p>
+                            <p class="padFirstP">Harmonised Amateur Radio Examination Certificate (COMREG/IRTS) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -164,6 +165,5 @@ include ("inc/menu.php");
 
 
 <?php include ("inc/footer.php") ?>
-
 
 
