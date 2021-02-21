@@ -55,40 +55,6 @@ else {
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
 
-<h2>Airlines from Ireland</h2>
-<h3>Airlines from Dublin</h3>
-<p>Airlines from dublin to airports to ski in Austria or Germany.
-
-<p> <a target="_blank" href="https://www.aerlingus.com/">Aer Lingus</a> fly from Dublin to Munich, Salzburg and Vienna.</p>
-<p> <a target="_blank" href="https://www.ryanair.com/">RyanAir</a> fly from Dublin to Munich, Salzburg, Memmingham, Bergamo(Italy) and Bratislava(Slovakia).</p>
-
-<p> <a target="_blank" href="https://www.laudamotion.com/">Lauda Motion</a> fly from Dublin to Innsbruck and Vienna. The use the Ryanair website</p>
-
-<p> <a target="_blank" href="https://www.luftansa.com/">Luftansa</a> fly from Dublin to Munich.</p>
- </p>
-
-<h3>Airlines from Belfast</h3>
-<p>Airlines from Belfast to airports to ski in Austria or Germany.
-
-<p> <a target="_blank" href="https://www.jet2.com/">Jet2.com</a> fly from Belfast International to Salzburg (Saturday).</p>
-<p> <a target="_blank" href="https://www.easyjet.com/">EasyJet</a> fly from Belfast International to Salzburg (Sundays some times Thursdays).</p>
-
-
-<h3>Airlines from Cork</h3>
-<p>Airlines from Cork to airports to ski in Austria or Germany.
-<p> <a target="_blank" href="https://www.aerlingus.com/">Aer Lingus</a> fly from Cork to Munich.</p>
-<p> <a target="_blank" href="https://www.tuiholidays.ie/">TUI Holidays</a> for  <a target="_blank" href="https://www.topflight.ie/">TopFlight</a> fly from Cork to Salzburg, normally booked out for packages during the winter ski months.</p>
-
-
-<p>There are a number of Airports where you can fly to from Dublin and then fly on to Slazburg or Innsburck go skiing in the Alps.</p>
-<p>EasyJet fly from Bristol, Gatwick, Liverpool and Luton to Salzburg.</p>
-<p>Ryanair fly from Stansted to Salzburg.</p>
-<p>Jet2.com fly from Stansted, Leeds/Bradford, Birmingham and East Midlands to Salzburg.</p>
-<p>Luftansa/Austrian Air fly from Frankfurt to Salzburg.</p>
-
-<h2>Rail</h2>
-<p>Some resorts in the alps are served by rail, and can be an efficent way to get from the airports to the resort <a href="http://www.oebb.at/en/" target=_blank>www.oebb.at</a> and at <a href="https://www.bahn.com/en/view/index.shtml" target=_blank>www.bahn.de</a>.</p>
-
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
 
@@ -103,6 +69,11 @@ else {
 <p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them. Get Sun block and lip balm.</p>
 
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
+
+<h2>Learning</h2>
+<p><a target="_blank" href="https://www.skiclub.ie/">Ski Club Ireland</a> - Artificial Slope in Kilternan. </p>
+<p><a target="_blank" href="https://www.skicentre.ie/">Ski Centre Dublin</a> - Indoor Ski Threadmill in Sandyford. </p>
+
 
 <?php include ("inc/footer.php") ?>
 
