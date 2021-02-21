@@ -73,6 +73,8 @@ else {
 <h2>Learning</h2>
 <p><a target="_blank" href="https://www.skiclub.ie/">Ski Club Ireland</a> - Artificial Slope in Kilternan. </p>
 <p><a target="_blank" href="https://www.skicentre.ie/">Ski Centre Dublin</a> - Indoor Ski Threadmill in Sandyford. </p>
+<p><a target="_blank" href="https://iasisnowsports.ie/">Irish Association of Snowsports Instructors (IASI)</a> </p>
+<p><a target="_blank" href="https://basi.org.uk/">British Association of Snowsports Instructors (BASI)</a> </p>
 
 
 <?php include ("inc/footer.php") ?>
