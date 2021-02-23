@@ -54,6 +54,7 @@ else {
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
+<p>SnowTrex<a target="_blank" href="https://www.snowtrex.ie/">www.snowtrex.ie</a> - German Company.</p>
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
