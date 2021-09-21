@@ -54,7 +54,6 @@ else {
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
-<p>SnowTrex<a target="_blank" href="https://www.snowtrex.ie/">www.snowtrex.ie</a> - German Company.</p>
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
@@ -69,14 +68,9 @@ else {
 
 <p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them. Get Sun block and lip balm.</p>
 
+<p>I tend to ski with a small backpack(rather that trying to stuff things into your pockets), so I carry water, I have a platypus but sometimes just bring a bottle of water, you'd be surprised how dehydrating skiing is, an extra layer in case it gets cold, or to store layer if it heats up, a hat (to replace the helmet when sitting outside), sunblcok, lipbalm, battery pack for your mobile phone, googles or shades depending on which you are using while skiing.
+</p>
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
-
-<h2>Learning</h2>
-<p><a target="_blank" href="https://www.skiclub.ie/">Ski Club Ireland</a> - Artificial Slope in Kilternan. </p>
-<p><a target="_blank" href="https://www.skicentre.ie/">Ski Centre Dublin</a> - Indoor Ski Threadmill in Sandyford. </p>
-<p><a target="_blank" href="https://iasisnowsports.ie/">Irish Association of Snowsports Instructors (IASI)</a> </p>
-<p><a target="_blank" href="https://basi.org.uk/">British Association of Snowsports Instructors (BASI)</a> </p>
-
 
 <?php include ("inc/footer.php") ?>
 
