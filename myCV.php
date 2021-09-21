@@ -76,6 +76,7 @@ include ("inc/menu.php");
                             <p class="padFirstP">Postgraduate Diploma in Computer Modelling and Simulation (University of Dublin) </p>
                             <p class="padFirstP">Postgraduate Diploma in Computers for Engineers (University of Dublin) </p>
                             <p class="padFirstP">Professional Diploma in Digital Media (Dublin Institute of Technology)</p>
+                            <p class="padFirstP">M.Sc. in Computer Science with Big Data Analytics (Wrexham Glyndwr University) - due 2022.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
