@@ -78,11 +78,13 @@ else {
 <li>Yesterday</li>
 <li>CGTN</li>
 <li>FreeSports</li>
+<li>SportyStuff TV</li>
 <li>NHK World</li>
 <li>Arirang TV</li>
 <li>Travel Channel</li>
 <li>DMAX</li>
 <li>Quest</li>
+<li>Quest Red</li>
 </ul>
                         </div>
                         <div class="span4">
