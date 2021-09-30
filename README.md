@@ -40,7 +40,8 @@ May Also include some of my interests and projects I have worked on
 - Add Bing Search (need MS account)
 - Add News sites and personal sites of interest
 - Add graphs from Google Data Studio (now I did a course in it)
-
+- Add Telegram widget page
+- Add my MSc projects/interests/tools page
 
 - Add Private section with logins
   - Native (done)
