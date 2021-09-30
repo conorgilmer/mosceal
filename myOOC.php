@@ -35,6 +35,10 @@ include ("inc/menu.php");
 			 <h2>Google Digital Garage / IAB / Open University </h2>
                             <p class="padFirstP">Certificate in Online Proficiency (Google/Digital Garage) </p>
                             <p class="padFirstP">Fundamentals in Digital Marketing Certification (Google/Digital Garage/IAB/Open University) </p>
+			 <h2>MathLab (Mathworks)</h2>
+                            <p class="padFirstP"> MATHLAB (Onramp) </p>
+                            <p class="padFirstP"> Machine Learning (Onramp) </p>
+                            <p class="padFirstP"> Deep Learning (Onramp) </p>
 			 <h2>LinkedIn Learning</h2>
                             <p class="padFirstP">WordPress 5.0 Essentials (LinkedIn Learning) </p>
                             <p class="padFirstP">WordPress eCommerce (LinkedIn Learning) </p>

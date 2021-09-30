@@ -40,16 +40,21 @@ Some tools I have used during my Masters which I find useful
 <ul>
 <li><a target="_blank" href="https://thonny.org/">Thonny</a> - Python IDE great for learning python.</li>
 <li><a target="_blank" href="https://www.anaconda.com/products/individual">Anaconda</a> - "Data Science Toolkit" - Python Jupyter Notebook etc.</li>
-<li><a target="_blank" href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a> - Database Tool (need Java installed</li>
+<li><a target="_blank" href="https://www.oracle.com/tools/downloads/sqldev-downloads.html">Oracle SQL Developer</a> - Database Tool (need Java installed)</li>
 <li><a target="_blank" href="https://www.popsql.com/">PopSQL</a> - SQL Editor</li>
-<li><a target="_blank" href="https://www.sublimetext.com/">SublimeText</a> - Editor</li>
+<li><a target="_blank" href="https://www.sublimetext.com/">SublimeText</a> - Multiplatform Editor (configure to build in python or whatever language you wish)</li>
 <li><a target="_blank" href="https://www.vim.org/">Vim</a> - Editor (the old reliable)</li>
 <li><a target="_blank" href="https://online.visual-paradigm.com/">Visual Paradigm</a> - Online Drawing Class Diagrams and Flowcharts etc.</li>
 <li><a target="_blank" href="https://app.diagrams.net/">Diagrams.net/Draw.io</a> - Online Drawing Class Diagrams etc.</li>
+<li><a target="_blank" href="https://graphviz.org/">Graphviz</a> - Opensource Graph visualization software.</li>
+<li><a target="_blank" href="https://www.mathworks.com/products/matlab.html">Mathlab</a> - Mathematical Programming from MathWorks.</li>
+
 <li><a target="_blank" href="https://www.citethisforme.com/">Cite This for Me</a> - Online generate citations (IEEE format).</li>
 <li><a target="_blank" href="https://www.wireshark.org/">Wireshark</a> - Network Protocol Analyzer.</li>
 <li><a target="_blank" href="https://www.virtualbox.org/">Virtual Box</a> - Virtualization application.</li>
-<li><a target="_blank" href="https://www.openstack.org/">OpenStack</a> Cloud Computing.</li>
+<li><a target="_blank" href="https://www.openstack.org/">OpenStack</a> - Cloud Computing.</li>
+<li><a target="_blank" href="https://ubuntu.com/download/">Ubuntu Linux</a> - used both Desktop and Server OS versions.</li>
+<li><a target="_blank" href="https://linuxmint.com/download.php">Linux Mint</a> - very user friendly linux destop version.</li>
 </ul>
 </p>
 
