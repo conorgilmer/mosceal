@@ -33,6 +33,7 @@ include ("inc/menu.php");
 <li><i>Advanced Critical Research</i></li>
 <li><i>Dissertation</i></li>
 </ul>
+Italics indicate modules to do.
 </p>
 <h2>Tools</h2>
 <p>
