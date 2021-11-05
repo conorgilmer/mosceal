@@ -29,12 +29,19 @@ include ("inc/menu.php");
 <li>Data Analysis and Visualisation</li>
 <li>Machine Learning</li>
 <li>Virtual and Cloud Computing</li>
-<li><i>Algorithms and Data Structures</i></li>
+<li>Algorithms and Data Structures</li>
 <li><i>Advanced Critical Research</i></li>
 <li><i>Dissertation</i></li>
 </ul>
 Italics indicate modules to do.
 </p>
+
+<h2>Essays & Articles<h2>
+<ul>
+<li><a target="_blank" href="docs/thetechnologicalsingularity.pdf">The Technological Singularity.</a></li>
+<li><a target="_blank" href="docs/TheEndtoPrivacyCG.pdf">The End to Privacy.</a></li>
+<li><a target="_blank" href="docs/RobotsinSociety.pdf">Advantages and Disadvantages of Robots in Society.</a></li>
+</ul>
 <h2>Tools</h2>
 <p>
 Some tools I have used during my Masters which I find useful
