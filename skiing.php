@@ -73,7 +73,7 @@ else {
 </p>
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
 
-<p><b>Post COVID-19</b> Who knows what it will be like to ski in europe this winter, I believe Austria will demand masks in gondolas and enclosed lifts.. will be good to get back.</p>
+<p><b>Post COVID-19</b> Who knows what it will be like to ski in europe this winter, I believe Austria will demand masks in gondolas and enclosed lifts, which is fair enough, and the 3G rule (which I think is Recovered, tested or Vaxed - within the previous 9months!, however will be good to get back.</p>
 <?php include ("inc/footer.php") ?>
 
 
