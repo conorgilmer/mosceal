@@ -30,13 +30,13 @@ include ("inc/menu.php");
 <li>Machine Learning</li>
 <li>Virtual and Cloud Computing</li>
 <li>Algorithms and Data Structures</li>
-<li><i>Advanced Critical Research</i></li>
-<li><i>Dissertation</i></li>
+<li>Advanced Critical Research</li>
+<li><i>Dissertationi (Due May 2022)</i></li> 
 </ul>
 Italics indicate modules to do.
 </p>
 
-<h2>Essays & Articles<h2>
+<h2>Essays & Articles</h2>
 <ul>
 <li><a target="_blank" href="docs/thetechnologicalsingularity.pdf">The Technological Singularity.</a></li>
 <li><a target="_blank" href="docs/TheEndtoPrivacyCG.pdf">The End to Privacy.</a></li>
