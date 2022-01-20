@@ -43,7 +43,7 @@ else {
 <p>Phibsboro Chess Club <a target="_blank" href="https://www.phibsborochessclub.com">www.phibsborochessclub.com</a></p>
 <p>FIDE <a target="_blank" href="https://www.fide.com">www.fide.com</a></p>
 <p>Chess Online <a target="_blank" href="https://www.chess.com">www.chess.com</a></p>
-<p>Chess Online <a target="_blank" href="https://www.lichess.org">www.lichess.org</a></p>
+<p>Chess Online <a target="_blank" href="https://lichess.org/@/conorjg">lichess.org/@/conorjg</a></p>
 
 
 <?php include ("inc/footer.php") ?>
