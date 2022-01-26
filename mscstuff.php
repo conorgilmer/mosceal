@@ -31,7 +31,7 @@ include ("inc/menu.php");
 <li>Virtual and Cloud Computing</li>
 <li>Algorithms and Data Structures</li>
 <li>Advanced Critical Research</li>
-<li><i>Dissertationi (Due May 2022)</i></li> 
+<li><i>Dissertation (Due May 2022)</i></li> 
 </ul>
 Italics indicate modules to do.
 </p>
