@@ -109,6 +109,22 @@ include ("inc/menu.php");
                   </div><!-- .row -->
 
                 <br/>
+v class="row ">
+                       <div class="span12 docpanel5">
+                            <h2 class="whitefont"> Memberships </h2>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                  <div class="row ">
+                       <div class="span12">
+                            <p class="padFirstP">IEEE -  Institute of Electrical and Electronics Engineers (Graduate Student Member) </p>
+                            <p class="padFirstP">IRTS - Irish Radio Transmitters Society (member since 2006) </p>
+                            <p class="padFirstP">ICS - Irish Computer Society (former member) </p>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                <br/>
+
 
 
                 <div class="row ">
