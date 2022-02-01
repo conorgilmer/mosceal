@@ -30,7 +30,7 @@ include ("inc/menu.php");
 <li>Machine Learning</li>
 <li>Virtual and Cloud Computing</li>
 <li>Algorithms and Data Structures</li>
-<li>Advanced Critical Research</li>
+<li>Advanced Critical Research (Research Proposal)</li>
 <li><i>Dissertation (Due May 2022)</i></li> 
 </ul>
 Italics indicate modules to do.
