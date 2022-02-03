@@ -109,7 +109,7 @@ include ("inc/menu.php");
                   </div><!-- .row -->
 
                 <br/>
-v class="row ">
+		<div class="row ">
                        <div class="span12 docpanel5">
                             <h2 class="whitefont"> Memberships </h2>
                        </div> <!-- .span12 -->

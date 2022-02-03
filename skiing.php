@@ -54,6 +54,11 @@ else {
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
+<h2>Flights</h2>
+<p>RyanAir<a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a></p>
+<p>Aer Lingus<a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a></p>
+<p>Jet2.com<a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.)</p>
+
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
@@ -69,9 +74,6 @@ else {
 <p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them. Get Sun block and lip balm.</p>
 
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
-
-<p>It will be interesting to see how the COVID regulations work, thankfully it seems now (25/1/2022) more relaxed, france has opened up to UK visitors, while Austria demands fully vaxxed (not recent tests or evidence of prior infection) from February, I still expect masks (and not just a facecovering buff) on lifts, gondolas, prettymuch everywhere that is common areas.
-</p>
 
 <?php include ("inc/footer.php") ?>
 
