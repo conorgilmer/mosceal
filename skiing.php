@@ -55,9 +55,10 @@ else {
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
 <h2>Flights</h2>
-<p>RyanAir<a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a></p>
-<p>Aer Lingus<a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a></p>
-<p>Jet2.com<a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.)</p>
+<p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
+<p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, and Lyon</p>
+<p>Jet2.com <a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.) to Salzburg.</p>
+<p>TUI <a target="_blank" href="https://www.tuiholidays.ie/">www.tuiholidays.ie</a>(from Dublin, Cork & Shannon) to Salzburg, Innsbruck and Vienna.</p>
 
 
 <h2>Tips</h2>
@@ -75,6 +76,9 @@ else {
 
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
 
+<h2>Travel Journalists/Writers</h2>
+<p>Simon Calder<a target="_blank" href="https://www.simoncalder.co.uk/">www.simoncalder.co.uk</a></p>
+<p>Eoghan Corry<a target="_blank" href="https://eoghancorry.com/">www.eoghancorry.com</a></p>
 <?php include ("inc/footer.php") ?>
 
 
