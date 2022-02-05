@@ -34,6 +34,23 @@ $(function() {
  <!--a class="btn btn-primary btn-large" href="download.html">Download the App &raquo;</a>
 -->
       </div>
+
+<!--2022-->
+                <div class="row">
+
+                <div class="span12 helpDoc">
+
+<h2>Social and Messaging Platforms</h2>
+<p>Facebook <a target="_blank" href="https://www.facebook.com/conor.gilmer/">https://www.facebook.com/conor.gilmer/</a></p>
+<p>Twitter <a target="_blank" href="https://twitter.com/conorgilmer">https://twitter.com/conorgilmer</a></p>
+<p>GAB.com <a target="_blank" href="https://gab.com/cgilmer">https://gab.com/cgilmer</a></p>
+<p>Parler <a target="_blank" href="https://parler.com/conorgilmer">https://parler.com/conorgilmer</a></p>
+</div>
+</div>
+
+<!--2022-->
+
+
 <div class="span12">
   <h2>Contact Form for Mo Sceal</h2>
 
