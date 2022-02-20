@@ -43,16 +43,18 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
                         <div class="span4">
 
 <!-- Place this tag in your head or just before your close body tag. -->
+<!--
 <script src="https://apis.google.com/js/platform.js" async defer></script>
-
+-->
 <!-- Place this tag where you want the widget to render. -->
 <div class="g-person" data-width="150" data-href="//plus.google.com/111664186016659524449" data-layout="landscape" data-rel="author"></div>
 
 
                         </div>
                         <div class="span3">
-
+<!--
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+-->
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="conorgilmer"><a class="LI-simple-link" href='https://ie.linkedin.com/in/conorgilmer?trk=profile-badge'>Conor Gilmer</a></div>
 
                         </div>     
@@ -65,11 +67,12 @@ Welcome to the webpage of Conor Gilmer. Here in my corner of the web, you should
                         </div>
                         <div class="span3">
 
-<iframe src="http://archive.met.ie/widgets/3daysummary.asp" style=" border-width:0 " width="134" height="222" frameborder="0" scrolling="no"></iframe>
-
+<!--iframe src="http://archive.met.ie/widgets/3daysummary.asp" style=" border-width:0 " width="134" height="222" frameborder="0" scrolling="no"></iframe>
+-->
 
                         </div>
                         <div class="span4">
+
 <a target="_blank" style="font-size:14px;color:#039;font-family:arial;font-weight:bold; text-decoration:none;title="Golf WeatherOnline " href="https://www.weatheronline.co.uk/weather/maps/city?GLOC=&LANG=en&WMO=&LEVEL=100&R=400"></a>
 <iframe width="145" height="130" marginheight="0" marginwidth="0" frameborder="0"
 src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HEIGHT=130&CLOUD=1&V=2">
@@ -88,9 +91,15 @@ src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HE
                         <div class="span1">
                         </div>
                         <div class="span5">
-<iframe src="https://duckduckgo.com/search.html?width=350&duck=yes&site=conorgilmer.eu, webwayz.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:483px;height:60px;" frameborder="0"></iframe>                       </div>
+
+
+<iframe src="https://duckduckgo.com/search.html?width=350&duck=yes&site=conorgilmer.eu, webwayz.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:483px;height:60px;" frameborder="0"></iframe>                 
+
+      </div>
                         <div class="span5">
-                <script>
+  
+<!--
+              <script>
   (function() {
     var cx = '016180829677555730201:3gxjgug64mu';
     var gcse = document.createElement('script');
@@ -102,7 +111,7 @@ src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HE
   })();
 </script>
 <gcse:search></gcse:search>        
-		</div>
+-->		</div>
                         <div class="span1">
                         </div>
 		</div>
@@ -116,6 +125,7 @@ src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HE
                         <div class="span3">
 <p>
 <a href="http://info.flagcounter.com/niVM"><img src="http://s04.flagcounter.com/count2/niVM/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 </p>
                         </div>
                         <div class="span4">
@@ -123,7 +133,7 @@ src="https://www.weatheronline.co.uk/cgi-bin/homecif?WMO=03969&L=en&WIDTH=145&HE
 <p>
 <a href="http://www.freecounterstat.com" target="_Blank" title="web page hit counter">web page hit counter</a><br/>
 <script type="text/javascript" src="http://counter8.fcs.ovh/private/counter.js?c=c036f552e66433913ec83518a4e428ba"></script>
-        
+       
 </p>
 
 
