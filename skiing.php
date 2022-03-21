@@ -60,7 +60,7 @@ else {
 <p>Jet2.com <a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.) to Salzburg.</p>
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
 <p>TUI <a target="_blank" href="https://www.tuiholidays.ie/">www.tuiholidays.ie</a>(from Dublin, Cork & Shannon) to Salzburg, Innsbruck and Vienna.</p>
-
+<p>Luftansa <a target="_blank" href="https://www.luftansa.com/">www.luftansa.com</a> to Munich.</p>
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
