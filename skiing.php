@@ -65,6 +65,8 @@ else {
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
 
+<p>European School Holidays (Warringtonbears)<a target="_blank" href="http://warringtonbears.org.uk/snowheads/eric2223.pdf">2022-2023 - European School Holidays (PDF)</a></p>
+
 <p>ZigZagSki List School Holidays <a target="_blank" href="http://www.zigzagski.com/calendar2019/">www.zigzagski.com/calendar2019/</a></p>
 <p>European School Holidays <a target="_blank" href="https://www.schoolholidayseurope.eu/">www.schoolholidayseurope.eu</a></p>
 
