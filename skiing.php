@@ -42,7 +42,7 @@ else {
 <p>Les Chalets du Jardin Alpin, Serre Chevalier <a target="_blank" href="https://www.montagne-vacances.com/fr/appartement-duplex-3-pieces-6-personnes-31,serre-chevalier-1400_19601.html">Les Chalets du Jardin Alpin</a></p>
 <p>Barenbachhof Hotel Saalbach <a target="_blank" href="https://www.baerenbachhof.com/">www.baerenbachhof.com</a></p>
 <p>Siegi Tours <a target="_blank" href="http://www.siegitours.com/">www.siegitours.com</a></p>
-<p>Bad Hindelang / Oberjoch Residence Algaeublick <a target="_blank" href="http://www.allgblick.privat.t-online.de/index.html">Book</a> , <a target="_blank" href="www.allgaeublick.net">www.allgaeublick.net</a></p>
+<p>Bad Hindelang / Oberjoch Residence Berg Blick <a target="_blank" href="https://bergblick-bad-hindelang.de/">Bergblick Bad Hindelang / OberJoch</a></p>
 <p>Serre Chevalier <a target="_blank" href="https://www.serre-chevalier.com/en/winter/">www.serre-chevalier.com</a></p>
 <p>Val Thorens <a target="_blank" href="http://www.valthorens.com/en/home-page.1.html">www.valthorens.com</a></p>
 
