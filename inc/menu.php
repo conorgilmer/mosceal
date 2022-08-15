@@ -20,6 +20,7 @@
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
                       <li<?php if ($thisPage=="Twitter") echo " class=\"active\"";?>><a href="twitter.php">Twitter</a></li>
+                      <li<?php if ($thisPage=="Tweepsmap") echo " class=\"active\"";?>><a href="tweepsmap.php">Tweepsmap</a></li>
                       <li<?php if ($thisPage=="Google") echo " class=\"active\"";?>><a href="google.php">Google+</a></li>
                       <li<?php if ($thisPage=="Facebook") echo " class=\"active\"";?>><a href="facebook.php">Facebook</a></li>
                       <li<?php if ($thisPage=="YouTube") echo " class=\"active\"";?>><a href="youtube.php">YouTube</a></li>

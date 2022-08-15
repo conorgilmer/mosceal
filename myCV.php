@@ -135,7 +135,7 @@ include ("inc/menu.php");
 
                   <div class="row ">
                        <div class="span12">
-                            <p class="padFirstP">Technologies used : Java, COBOL, Perl, PHP, MySql, LaTeX, Linux.</p>
+                            <p class="padFirstP">Technologies used : Java, COBOL, Perl, PHP, MySql, Python, LaTeX, Linux.</p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
