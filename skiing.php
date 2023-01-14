@@ -54,6 +54,10 @@ else {
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
+<p>Ski Club of Ireland <a target="_blank" href="https://www.skiclub.ie/">www.skiclub.ie</a> Kilternan.</p>
+<p>Irish Association of Snowsports Instructors (IASI)<a target="_blank" href="https://iasisnowsports.ie/">www.iasisnowsports.ie</a>.</p>
+<p>British Association of Snowsports Instructors (BASI)<a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
+
 <h2>Flights</h2>
 <p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
 <p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva and Lyon</p>
@@ -78,6 +82,8 @@ else {
 <p>Clothes, ski jacket, salapettes, gloves, hat and ski-socks. A thermal layer Merino Wool, light, warm and non smelling, is one I really like. Goggles and shades, depending on conditions you can switch between them. Get Sun block and lip balm.</p>
 
 <p>I rent my equipment, since I think it is too much hassle, carrying them on planes. If you are buying equipment, skiboots are perhaps the best since they can be specially fitted to you, also a helmet maybe a good to purchase and fits easier in your case.</p>
+
+<p>It is a good idea to sort your equipment out ASAP, e.g. if you arrive on the saturday, sort it out if you can, so when you start on sunday you are ready to go. You should have your details available, if booking in advance you can send them your details, weight, height, shoe size, how experienced you are first time, beginner, intermediate, expert etc.,  what sort of equipment you require, Skis, Boots, Helmet, poles. It can quicken things up if you book equipment in advance and send them your details, you can always change the boots size if they are not comfortable when you are trying them on. And dont leave it to the last day when you are handing back your rental gear to pay, since it will be hectic.</p>
 
 <h2>Travel Journalists/Writers</h2>
 <p>Some commentators on travel I have always found informed and with practical advice on travel (especially during these covid times) are..</p>
