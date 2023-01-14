@@ -53,6 +53,7 @@ else {
 <p>O'Leary Travel <a target="_blank" href="http://www.bookaholiday.ie">www.bookaholiday.ie</a></p>
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
+<p>Snow Forecast <a target="_blank" href="https://www.yr.no/en/">www.yr.no/en/</a> (Norwegian Met Office)</p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
 <p>Ski Club of Ireland <a target="_blank" href="https://www.skiclub.ie/">www.skiclub.ie</a> Kilternan.</p>
 <p>Irish Association of Snowsports Instructors (IASI)<a target="_blank" href="https://iasisnowsports.ie/">www.iasisnowsports.ie</a>.</p>
@@ -60,7 +61,7 @@ else {
 
 <h2>Flights</h2>
 <p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
-<p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva and Lyon</p>
+<p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva, Zurich, and Lyon</p>
 <p>Jet2.com <a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.) to Salzburg.</p>
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
 <p>TUI <a target="_blank" href="https://www.tuiholidays.ie/">www.tuiholidays.ie</a>(from Dublin, Cork & Shannon) to Salzburg, Innsbruck and Vienna.</p>
