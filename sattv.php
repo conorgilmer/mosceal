@@ -59,7 +59,7 @@ else {
 <h3>Astra 28.2/28.5 East</h3>
 <ul>
 <li>PBS America</li>
-<li>Smithsonian</li>
+<li><it>Smithsoniani</it></li>
 <li>Al Jazzera </li>
 <li>France 24 (HD only) </li>
 <li>CNN </li>
@@ -77,11 +77,11 @@ else {
 <li>TRT World </li>
 <li>Yesterday</li>
 <li>CGTN</li>
-<li>FreeSports</li>
+<li>FreeSports (HD Only)</li>
 <li>SportyStuff TV</li>
 <li>NHK World</li>
 <li>Arirang TV</li>
-<li>Travel Channel</li>
+<li>Sky Arts</li>
 <li>DMAX</li>
 <li>Quest</li>
 <li>Quest Red</li>
