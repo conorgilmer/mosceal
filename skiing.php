@@ -90,6 +90,10 @@ else {
 <p>Some commentators on travel I have always found informed and with practical advice on travel (especially during these covid times) are..</p>
 <p>Simon Calder <a target="_blank" href="https://www.simoncalder.co.uk/">www.simoncalder.co.uk</a></p>
 <p>Eoghan Corry <a target="_blank" href="https://eoghancorry.com/">www.eoghancorry.com</a></p>
+
+<h3>Ski Blogs</h3>
+<p>Abigail Butcher <a target="_blank" href="https://www.abibutcher.com/">www.abibutcher.com</a></p>
+<p>Ski Independence <a target="_blank" href="https://www.ski-i.com/blog/">www.ski-i.com/blog/</a></p>
 <?php include ("inc/footer.php") ?>
 
 
