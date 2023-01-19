@@ -60,7 +60,7 @@ else {
 <p>British Association of Snowsports Instructors (BASI)<a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
 
 <h2>Flights</h2>
-<p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
+<p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Klagenfurto(2023), Ljubljana, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
 <p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva, Zurich, and Lyon</p>
 <p>Jet2.com <a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.) to Salzburg.</p>
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
@@ -91,7 +91,7 @@ else {
 <p>Simon Calder <a target="_blank" href="https://www.simoncalder.co.uk/">www.simoncalder.co.uk</a></p>
 <p>Eoghan Corry <a target="_blank" href="https://eoghancorry.com/">www.eoghancorry.com</a></p>
 
-<h3>Ski Blogs</h3>
+<h3><b>Ski Blogs</b></h3>
 <p>Abigail Butcher <a target="_blank" href="https://www.abibutcher.com/">www.abibutcher.com</a></p>
 <p>Ski Independence <a target="_blank" href="https://www.ski-i.com/blog/">www.ski-i.com/blog/</a></p>
 <?php include ("inc/footer.php") ?>
