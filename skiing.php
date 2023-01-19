@@ -60,7 +60,7 @@ else {
 <p>British Association of Snowsports Instructors (BASI)<a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
 
 <h2>Flights</h2>
-<p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Klagenfurto(2023), Ljubljana, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
+<p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Klagenfurt(2023), Ljubljana, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
 <p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva, Zurich, and Lyon</p>
 <p>Jet2.com <a target="_blank" href="https://www.jet2.com/">www.jet2.com</a>(from Belfast Intl.) to Salzburg.</p>
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
