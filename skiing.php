@@ -66,6 +66,23 @@ else {
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
 <p>TUI <a target="_blank" href="https://www.tuiholidays.ie/">www.tuiholidays.ie</a>(from Dublin, Cork & Shannon) to Salzburg, Innsbruck and Vienna.</p>
 <p>Luftansa <a target="_blank" href="https://www.luftansa.com/">www.luftansa.com</a> to Munich.</p>
+<b>Airports</b> Austria : 
+<a target="_blank" href="https://www.salzburg-airport.com/en/">Salzburg</a>, 
+<a target="_blank" href="https://airport-klagenfurt.at/en/home">Klagenflurt</a>, 
+<a target="_blank" href="https://www.innsbruck-airport.com/en/">Innsbruck</a>, 
+<a target="_blank" href="https://www.viennaairport.com/en/passengers">Vienna</a>. 
+Italy : <a target="_blank" href="https://www.milanbergamoairport.it/en/">Bergamo (Milan)</a>, 
+<a target="_blank" href="https://www.milanairports.com/en">Milan Airports (Malpensa and Linate)</a>, 
+<a target="_blank" href="https://www.aeroportoditorino.it/en">Turin</a>. 
+Slovakia : <a target="_blank" href="https://www.bts.aero/en/">Bratislava</a>. 
+Slovenia : <a target="_blank" href="https://www.lju-airport.si/">Ljubljana</a>. 
+Germany : <a target="_blank" href="https://www.munich-airport.com/">Munich</a>, 
+<a target="_blank" href="https://www.memmingen-airport.com/">Memmingham</a>. 
+France : <a target="_blank" href="https://www.lyonaeroports.com/en">Lyon</a>, 
+<a target="_blank" href="https://www.chambery-airport.com/en/en">Chambery</a>, 
+<a target="_blank" href="https://www.grenoble-airport.com/en/en">Grenoble</a>. 
+Switzerland : <a target="_blank" href="https://www.gva.ch/en/">Geneva</a>, 
+<a target="_blank" href="https://www.flughafen-zuerich.ch/en/passengers">Zurich</a> 
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
