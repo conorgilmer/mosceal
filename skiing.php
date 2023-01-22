@@ -59,6 +59,8 @@ else {
 <p>Irish Association of Snowsports Instructors (IASI) <a target="_blank" href="https://iasisnowsports.ie/">www.iasisnowsports.ie</a>.</p>
 <p>British Association of Snowsports Instructors (BASI) <a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
 
+<p>German Railways - DB <a target="_blank" href="https://www.bahn.com/en">www.bahn.com</a></p>
+<p>Austrian Railways - OBB <a target="_blank" href="https://fahrplan.oebb.at/webapp/"> OBB Fahrplan Booking (Scotty)</a></p>
 <h2>Flights</h2>
 <p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Klagenfurt(2023), Ljubljana, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
 <p>Aer Lingus <a target="_blank" href="https://www.aerlingus.com/">www.aerlingus.com</a> Munich, Vienna, Milan, Geneva, Zurich, and Lyon</p>
