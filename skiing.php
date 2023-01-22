@@ -56,8 +56,8 @@ else {
 <p>Snow Forecast <a target="_blank" href="https://www.yr.no/en/">www.yr.no/en/</a> (Norwegian Met Office)</p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
 <p>Ski Club of Ireland <a target="_blank" href="https://www.skiclub.ie/">www.skiclub.ie</a> Kilternan.</p>
-<p>Irish Association of Snowsports Instructors (IASI)<a target="_blank" href="https://iasisnowsports.ie/">www.iasisnowsports.ie</a>.</p>
-<p>British Association of Snowsports Instructors (BASI)<a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
+<p>Irish Association of Snowsports Instructors (IASI) <a target="_blank" href="https://iasisnowsports.ie/">www.iasisnowsports.ie</a>.</p>
+<p>British Association of Snowsports Instructors (BASI) <a target="_blank" href="https://www.basi.org.uk/">www.basi.org.uk</a>.</p>
 
 <h2>Flights</h2>
 <p>RyanAir <a target="_blank" href="https://www.ryanair.com/">www.ryanair.com</a> to Salzburg, Klagenfurt(2023), Ljubljana, Brataslava, Bergamo, Grenoble, Memmigham, and Vienna(LaudaAir)</p>
@@ -66,7 +66,7 @@ else {
 <p>Swiss <a target="_blank" href="https://www.swiss.com/">www.swiss.com</a> to Zurich.</p>
 <p>TUI <a target="_blank" href="https://www.tuiholidays.ie/">www.tuiholidays.ie</a>(from Dublin, Cork & Shannon) to Salzburg, Innsbruck and Vienna.</p>
 <p>Luftansa <a target="_blank" href="https://www.luftansa.com/">www.luftansa.com</a> to Munich.</p>
-<b>Airports</b> Austria : 
+<p><b>Airports</b> Austria : 
 <a target="_blank" href="https://www.salzburg-airport.com/en/">Salzburg</a>, 
 <a target="_blank" href="https://airport-klagenfurt.at/en/home">Klagenflurt</a>, 
 <a target="_blank" href="https://www.innsbruck-airport.com/en/">Innsbruck</a>, 
@@ -83,6 +83,7 @@ France : <a target="_blank" href="https://www.lyonaeroports.com/en">Lyon</a>,
 <a target="_blank" href="https://www.grenoble-airport.com/en/en">Grenoble</a>. 
 Switzerland : <a target="_blank" href="https://www.gva.ch/en/">Geneva</a>, 
 <a target="_blank" href="https://www.flughafen-zuerich.ch/en/passengers">Zurich</a> 
+</p>
 
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
