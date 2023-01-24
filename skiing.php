@@ -45,7 +45,8 @@ else {
 <p>Bad Hindelang / Oberjoch Residence Berg Blick <a target="_blank" href="https://bergblick-bad-hindelang.de/">Bergblick Bad Hindelang / OberJoch</a></p>
 
 <p>Livigno <a target="_blank" href="https://www.livigno.eu/en/slopes">www.livigno.eu</a></p>
-<p>Hemsedal <a target="_blank" href="https://hemsedal.com/skistar-hemsedal">www.hemsedal.com//a></p>
+<p>Hemsedal <a target="_blank" href="https://hemsedal.com/skistar-hemsedal">www.hemsedal.com</a></p>
+<p>Saalbach<a target="_blank" href="https://skicircus.saalbach.com/en/skiing">www.saalbach.com</a></p>
 <p>Ski Amade <a target="_blank" href="https://www.skiamade.com">www.skiamade.com</a></p>
 <p>Serre Chevalier <a target="_blank" href="https://www.serre-chevalier.com/en/winter/">www.serre-chevalier.com</a></p>
 <p>Val Thorens <a target="_blank" href="http://www.valthorens.com/en/home-page.1.html">www.valthorens.com</a></p>
