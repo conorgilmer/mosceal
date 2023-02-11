@@ -119,6 +119,13 @@ Switzerland : <a target="_blank" href="https://www.gva.ch/en/">Geneva</a>,
 <h3><b>Ski Blogs</b></h3>
 <p>Abigail Butcher <a target="_blank" href="https://www.abibutcher.com/">www.abibutcher.com</a></p>
 <p>Ski Independence <a target="_blank" href="https://www.ski-i.com/blog/">www.ski-i.com/blog/</a></p>
+
+<h3><b>Government Travel advice</b></h3>
+<p>Due to COVID-19 government travel advice is well worth checking, particularly issues like masks, testing and quarantining, hopefully now in 2023 they are all gone never to return</p>
+<p>Dept. of Foreign Affairs Travel Advice <a target="_blank" href="https://www.dfa.ie/travel/travel-advice/">www.dfa.ie/travel/travel-advice/</a></p>
+<p>UK Dept. of Foreign Affairs Travel Advice <a target="_blank" href="https://www.gov.uk/foreign-travel-advice">www.gov.uk/foreign-travel-advice</a></p>
+
+
 <?php include ("inc/footer.php") ?>
 
 
