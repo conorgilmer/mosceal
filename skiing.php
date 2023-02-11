@@ -57,6 +57,7 @@ else {
 <p>Inghams Ski Holidays <a target="_blank" href="https://www.inghams.co.uk/ski-holidays">www.inghams.co.uk/ski-holidays</a></p>
 <p>O'Leary Travel <a target="_blank" href="http://www.bookaholiday.ie">www.bookaholiday.ie</a></p>
 <p>Navan Travel <a target="_blank" href="https://www.travalue.ie/ski">www.travalue.ie/ski</a></p>
+<p>Travel Solutions <a target="_blank" href="https://www.travel-solutions.co.uk/tour_categories/ski/">www.travel-solutions.co.uk/tour_categories/ski/</a> (flying from Belfast or Dublin)</p>
 <p>Snow Forecast <a target="_blank" href="https://www.snow-forecast.com/">www.snow-forecast.com</a></p>
 <p>Snow Forecast <a target="_blank" href="https://www.yr.no/en/">www.yr.no/en/</a> (Norwegian Met Office)</p>
 <p>On the Snow <a target="_blank" href="https://www.onthesnow.com/">www.onthesnow.com</a></p>
