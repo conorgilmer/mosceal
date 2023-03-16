@@ -76,7 +76,7 @@ else {
 <p>Luftansa <a target="_blank" href="https://www.luftansa.com/">www.luftansa.com</a> to Munich.</p>
 <p><b>Airports</b> Austria : 
 <a target="_blank" href="https://www.salzburg-airport.com/en/">Salzburg</a>, 
-<a target="_blank" href="https://airport-klagenfurt.at/en/home">Klagenflurt</a>, 
+<a target="_blank" href="https://airport-klagenfurt.at/en/home">Klagenfurt</a>, 
 <a target="_blank" href="https://www.innsbruck-airport.com/en/">Innsbruck</a>, 
 <a target="_blank" href="https://www.viennaairport.com/en/passengers">Vienna</a>. 
 Italy : <a target="_blank" href="https://www.milanbergamoairport.it/en/">Bergamo (Milan)</a>, 
@@ -92,7 +92,10 @@ France : <a target="_blank" href="https://www.lyonaeroports.com/en">Lyon</a>,
 Switzerland : <a target="_blank" href="https://www.gva.ch/en/">Geneva</a>, 
 <a target="_blank" href="https://www.flughafen-zuerich.ch/en/passengers">Zurich</a> 
 </p>
-
+<p><b>Airport Transfers/Taxis</b>
+<a target="_blank" href="https://salzburgtaxi.eu/">Salzburg Taxis</a> 
+<a target="_blank" href="https://www.austriatransfer.com/en/">Austria Transfer</a> 
+</p>
 <h2>Tips</h2>
 <p>One thing I recommend is to check when the school mid terms breaks are, normally it increases the prices for flights, accommodation, and availablilty. Once or twice we had extra traffic on the slopes and lifts since 1/2 of Holland, seemed to be skiing the same week as us.</p>
 
