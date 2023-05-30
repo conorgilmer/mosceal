@@ -19,6 +19,11 @@ include ("inc/menu.php");
 
 <h1>Projects</h1>
 
+<h2>Monty Hall Paradox</h2>
+<p>Every time I learn a new programming language I write the three card game/Monty Hall Paradox, since its a simple enough program which requires loops, conditionals, function calls, arithmetic, input and output.
+So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java etc.) of this should be found at <a target="_blank" href="http://www.webwayz.com/projects/threecard.php">Monty Hall Paradox</a>.
+</p>
+
 
 <h2>Election Systems</h2>
 <p>I have written a number of programs to analyse the proportionality of electoral systems, I have updated them from time to time, and the latest versions below are bootstrap websites developed in PHP/MySql using <a target="_blank" href="https://developers.google.com/chart/">Google Charts</a> for the graphs (and in other incarnations using <a target="_blank" href="https://naku.dohcrew.com/libchart/pages/introduction/">LibChart</a> and PhpMyGraph).</p>
@@ -37,10 +42,6 @@ include ("inc/menu.php");
 
 <h2>Another Bootstrap Version of this site</h2>
 <p>Social Media API <a target="_blank" href="http://www.conorgilmer.com/socialmediaAPI">Social Media API</a></p>
-<h2>Monty Hall Paradox</h2>
-<p>Every time I learn a new programming language I write the three card game/Monty Hall Paradox, since its a simple enough program which requires loops, conditionals, function calls, arithmetic, input and output.
-So various incarnations (C, Pascal, Fortran, Cobol, Lua, Perl, Python, PHP, Java etc.) of this should be found at <a target="_blank" href="http://www.webwayz.com/projects/threecard.php">Monty Hall Paradox</a>.
-</p>
 
 <h2>Equipotentials</h2>
 <p>Another project I return to is an old college physics project which was computer simulation written in Modula-2, migrated to Pascal then written in Java.  <a target="_blank" href="http://www.webwayz.com/projects/equi.php">Numerical Simulation of Equipotentials</a>.
