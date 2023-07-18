@@ -49,6 +49,8 @@ include ("inc/menu.php");
                             <p class="padFirstP">Twitter Flight School - Marketing Leadership</p>
 			 <h2>Oracle</h2>
                             <p class="padFirstP">Java Coding and Concepts</p>
+			 <h2>MicroFocus (OpenText)</h2>
+                            <p class="padFirstP">MicroFocus COBOL Fundamentals</p>
 			 <h2>Data Camp</h2>
                             <p class="padFirstP">Introduction to Python for Data Science</p>
                             <p class="padFirstP">Introduction to R</p>
@@ -68,6 +70,7 @@ include ("inc/menu.php");
                             <p class="padFirstP"><a target="_blank" href="https://advertise.bingads.microsoft.com/en-in/resources/training/courses">MicroSoft</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://app.hubspot.com/learning-center/">HubSpot Academy</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://www.datacamp.com">DataCamp</a></p>
+                            <p class="padFirstP"><a target="_blank" href="https://www.microfocus.com/">MicroFocus/OpenText</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://www.sololearn.com">SoloLearn</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://openclassrooms.com">OpenClassrooms</a></p>
                             <p class="padFirstP"><a target="_blank" href="https://www.openuniversity.edu/">Open University</a> / <a target="_blank" href="https://www.futurelearn.com/">Future Learn</a></p>
