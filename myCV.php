@@ -76,7 +76,7 @@ include ("inc/menu.php");
                             <p class="padFirstP">Postgraduate Diploma in Computer Modelling and Simulation (University of Dublin) </p>
                             <p class="padFirstP">Postgraduate Diploma in Computers for Engineers (University of Dublin) </p>
                             <p class="padFirstP">Professional Diploma in Digital Media (Dublin Institute of Technology)</p>
-                            <p class="padFirstP">M.Sc. in Computer Science with Big Data Analytics (Wrexham Glyndwr University) - due 2023.</p>
+                            <p class="padFirstP">M.Sc. in Computer Science with Big Data Analytics (Wrexham Glyndwr University) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
@@ -105,6 +105,30 @@ include ("inc/menu.php");
                             <p class="padFirstP">Bing Ads Accredited Professional (Microsoft) </p>
                             <p class="padFirstP">Inbound Certification 2017 (HubSpot) </p>
                             <p class="padFirstP">Harmonised Amateur Radio Examination Certificate (COMREG/IRTS) </p>
+               
+    </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                <br/>
+
+                <div class="row ">
+                       <div class="span12 docpanel5">
+                            <h2 class="whitefont"> Other Courses </h2>
+                       </div> <!-- .span12 -->
+                  </div><!-- .row -->
+
+                  <div class="row ">
+                       <div class="span12">
+                     
+             <p class="padFirstP">Programmer Induction Training (SDL) </p>
+                            <p class="padFirstP">COBOL Programming (SDL) </p>
+                            <p class="padFirstP">Professional Programming (SDL) </p>
+                            <p class="padFirstP">Computer Systems Design (Arcona) </p>
+                            <p class="padFirstP">DB2 Application Programming (Circle) </p>
+                            <p class="padFirstP">Introduction to Telecommunications Systems (Telenor) </p>
+                            <p class="padFirstP">Java Programming (Beckinridge) </p>
+                            <p class="padFirstP">J2EE Programming (Beckinridge) </p>
+                            <p class="padFirstP">Object Oriented Development (Arcona) </p>
                        </div> <!-- .span12 -->
                   </div><!-- .row -->
 
