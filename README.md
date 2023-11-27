@@ -31,6 +31,10 @@ May Also include some of my interests and projects I have worked on
 - Surfing
 - Satellite TV FTA
 
+# Added
+- MoSceal Stuff CPD/BSc(Hons) Digital Medai Stuff 2015
+- MSc Computer Science (Data Analytics) Stuff - 2023
+
 #To Do / Ideas
 - Add send tweet, form, php, ajaz, jquery?
 - Add google plus feed
