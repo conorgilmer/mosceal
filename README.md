@@ -22,6 +22,7 @@ Should Include
 - Tweet send, Form, AJAX and JQuery and AJAX
 - Humans.txt file and logo linked at bottom
 - Contact Form using PHP
+- add MSc stuff
 
 May Also include some of my interests and projects I have worked on
 - Chess
